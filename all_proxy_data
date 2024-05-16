@@ -1,0 +1,1364 @@
+FY,Month (abbv),Component,Region,Land Filter,Area of Responsibility,Drug Type,Count,Weight_x,Area Proxy,City,City Proxy,Month_proxy,Component_proxy,Region_proxy,Land_proxy,Drug_proxy,FY_date
+2019,APR,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,2,25,BALTIMORE,19,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,08,1,1,3,1,2019-08-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,2,4,25,BALTIMORE,19,08,1,1,3,1,2020-08-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,4,25,BALTIMORE,19,06,1,1,3,1,2020-06-01
+2020,MAY,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,05,1,1,3,1,2020-05-01
+2021,AUG,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,08,1,1,3,1,2021-08-01
+2021,DEC,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,2,25,BALTIMORE,19,12,1,1,3,1,2021-12-01
+2021,JUL,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,1,25,BALTIMORE,19,07,1,1,3,1,2021-07-01
+2021,MAR,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,03,1,1,3,1,2021-03-01
+2022,APR,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,2,0,25,BALTIMORE,19,04,1,1,3,1,2022-04-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,12,25,BALTIMORE,19,12,1,1,3,1,2022-12-01
+2022,FEB,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,22,25,BALTIMORE,19,02,1,1,3,1,2022-02-01
+2022,JAN,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,13,25,BALTIMORE,19,01,1,1,3,1,2022-01-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,1,25,BALTIMORE,19,06,1,1,3,1,2022-06-01
+2022,NOV,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,3,4,25,BALTIMORE,19,11,1,1,3,1,2022-11-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,2,6,25,BALTIMORE,19,04,1,1,3,1,2023-04-01
+2023,DEC,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,1,25,BALTIMORE,19,12,1,1,3,1,2023-12-01
+2023,JUL,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,3,10,25,BALTIMORE,19,07,1,1,3,1,2023-07-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,06,1,1,3,1,2023-06-01
+2023,MAY,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,2,25,BALTIMORE,19,05,1,1,3,1,2023-05-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,BALTIMORE FIELD OFFICE,Fentanyl,1,0,25,BALTIMORE,19,12,1,1,3,1,2024-12-01
+2019,APR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,6,1,10,CHICAGO,7,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,13,10,CHICAGO,7,08,1,1,3,1,2019-08-01
+2019,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,12,1,1,3,1,2019-12-01
+2019,FEB,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,6,0,10,CHICAGO,7,02,1,1,3,1,2019-02-01
+2019,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,01,1,1,3,1,2019-01-01
+2019,JUL,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,07,1,1,3,1,2019-07-01
+2019,JUN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,8,10,CHICAGO,7,06,1,1,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,11,10,CHICAGO,7,03,1,1,3,1,2019-03-01
+2019,MAY,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,05,1,1,3,1,2019-05-01
+2019,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,0,10,CHICAGO,7,11,1,1,3,1,2019-11-01
+2019,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,0,10,CHICAGO,7,10,1,1,3,1,2019-10-01
+2019,SEP,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,10,10,CHICAGO,7,09,1,1,3,1,2019-09-01
+2020,APR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,16,11,10,CHICAGO,7,04,1,1,3,1,2020-04-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,7,50,10,CHICAGO,7,08,1,1,3,1,2020-08-01
+2020,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,12,1,1,3,1,2020-12-01
+2020,FEB,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,2,10,CHICAGO,7,02,1,1,3,1,2020-02-01
+2020,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,8,3,10,CHICAGO,7,01,1,1,3,1,2020-01-01
+2020,JUL,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,4,19,10,CHICAGO,7,07,1,1,3,1,2020-07-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,06,1,1,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,7,10,CHICAGO,7,03,1,1,3,1,2020-03-01
+2020,MAY,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,2,10,CHICAGO,7,05,1,1,3,1,2020-05-01
+2020,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,11,1,1,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,10,1,1,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,0,10,CHICAGO,7,09,1,1,3,1,2020-09-01
+2021,APR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,6,2,10,CHICAGO,7,04,1,1,3,1,2021-04-01
+2021,AUG,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,2,10,CHICAGO,7,08,1,1,3,1,2021-08-01
+2021,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,5,10,CHICAGO,7,12,1,1,3,1,2021-12-01
+2021,FEB,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,1,10,CHICAGO,7,02,1,1,3,1,2021-02-01
+2021,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,6,3,10,CHICAGO,7,01,1,1,3,1,2021-01-01
+2021,JUL,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,0,10,CHICAGO,7,07,1,1,3,1,2021-07-01
+2021,JUN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,06,1,1,3,1,2021-06-01
+2021,MAR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,6,5,10,CHICAGO,7,03,1,1,3,1,2021-03-01
+2021,MAY,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,13,10,10,CHICAGO,7,05,1,1,3,1,2021-05-01
+2021,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,11,1,1,3,1,2021-11-01
+2021,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,12,19,10,CHICAGO,7,10,1,1,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,11,117,10,CHICAGO,7,09,1,1,3,1,2021-09-01
+2022,APR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,17,4,10,CHICAGO,7,04,1,1,3,1,2022-04-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,8,17,10,CHICAGO,7,08,1,1,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,8,67,10,CHICAGO,7,12,1,1,3,1,2022-12-01
+2022,FEB,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,23,10,CHICAGO,7,02,1,1,3,1,2022-02-01
+2022,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,4,10,CHICAGO,7,01,1,1,3,1,2022-01-01
+2022,JUL,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,39,10,CHICAGO,7,07,1,1,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,4,21,10,CHICAGO,7,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,7,3,10,CHICAGO,7,03,1,1,3,1,2022-03-01
+2022,MAY,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,05,1,1,3,1,2022-05-01
+2022,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,14,10,CHICAGO,7,11,1,1,3,1,2022-11-01
+2022,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,7,127,10,CHICAGO,7,10,1,1,3,1,2022-10-01
+2022,SEP,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,8,23,10,CHICAGO,7,09,1,1,3,1,2022-09-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,2,10,CHICAGO,7,04,1,1,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,7,10,CHICAGO,7,08,1,1,3,1,2023-08-01
+2023,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,4,10,CHICAGO,7,12,1,1,3,1,2023-12-01
+2023,FEB,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,0,10,CHICAGO,7,02,1,1,3,1,2023-02-01
+2023,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,2,10,CHICAGO,7,01,1,1,3,1,2023-01-01
+2023,JUL,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,7,10,CHICAGO,7,07,1,1,3,1,2023-07-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,3,10,CHICAGO,7,06,1,1,3,1,2023-06-01
+2023,MAR,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,2,10,CHICAGO,7,03,1,1,3,1,2023-03-01
+2023,MAY,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,12,10,CHICAGO,7,05,1,1,3,1,2023-05-01
+2023,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,12,23,10,CHICAGO,7,11,1,1,3,1,2023-11-01
+2023,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,7,10,CHICAGO,7,10,1,1,3,1,2023-10-01
+2023,SEP,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,2,5,10,CHICAGO,7,09,1,1,3,1,2023-09-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,5,20,10,CHICAGO,7,12,1,1,3,1,2024-12-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,3,12,10,CHICAGO,7,01,1,1,3,1,2024-01-01
+2024,NOV,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,2,10,CHICAGO,7,11,1,1,3,1,2024-11-01
+2024,OCT,Office of Field Operations,Coastal/Interior,Other,CHICAGO FIELD OFFICE,Fentanyl,1,1,10,CHICAGO,7,10,1,1,3,1,2024-10-01
+2019,APR,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,3,0,43,LOS ANGELES,32,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,08,1,1,3,1,2019-08-01
+2019,DEC,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,12,1,1,3,1,2019-12-01
+2019,JUN,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,2,0,43,LOS ANGELES,32,06,1,1,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,03,1,1,3,1,2019-03-01
+2019,NOV,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,11,1,1,3,1,2019-11-01
+2019,SEP,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,3,1,43,LOS ANGELES,32,09,1,1,3,1,2019-09-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,08,1,1,3,1,2020-08-01
+2020,JUL,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,2,0,43,LOS ANGELES,32,07,1,1,3,1,2020-07-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,06,1,1,3,1,2020-06-01
+2021,MAY,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,2,43,LOS ANGELES,32,05,1,1,3,1,2021-05-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,1,43,LOS ANGELES,32,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,03,1,1,3,1,2022-03-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,04,1,1,3,1,2023-04-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,06,1,1,3,1,2023-06-01
+2023,MAY,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,05,1,1,3,1,2023-05-01
+2023,NOV,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,11,1,1,3,1,2023-11-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,LOS ANGELES FIELD OFFICE,Fentanyl,1,0,43,LOS ANGELES,32,01,1,1,3,1,2024-01-01
+2019,APR,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,7,0,24,MIAMI,18,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,30,0,24,MIAMI,18,08,1,1,3,1,2019-08-01
+2019,DEC,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,12,1,1,3,1,2019-12-01
+2019,JAN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,8,0,24,MIAMI,18,01,1,1,3,1,2019-01-01
+2019,JUL,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,22,0,24,MIAMI,18,07,1,1,3,1,2019-07-01
+2019,JUN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,20,0,24,MIAMI,18,06,1,1,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,8,24,MIAMI,18,03,1,1,3,1,2019-03-01
+2019,NOV,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,3,1,24,MIAMI,18,11,1,1,3,1,2019-11-01
+2019,OCT,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,10,1,1,3,1,2019-10-01
+2019,SEP,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,8,0,24,MIAMI,18,09,1,1,3,1,2019-09-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,08,1,1,3,1,2020-08-01
+2020,FEB,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,15,0,24,MIAMI,18,02,1,1,3,1,2020-02-01
+2020,JAN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,3,0,24,MIAMI,18,01,1,1,3,1,2020-01-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,06,1,1,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,9,0,24,MIAMI,18,03,1,1,3,1,2020-03-01
+2020,MAY,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,05,1,1,3,1,2020-05-01
+2020,NOV,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,5,0,24,MIAMI,18,11,1,1,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,0,24,MIAMI,18,10,1,1,3,1,2020-10-01
+2021,OCT,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,0,24,MIAMI,18,10,1,1,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,09,1,1,3,1,2021-09-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,08,1,1,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,12,1,1,3,1,2022-12-01
+2022,FEB,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,02,1,1,3,1,2022-02-01
+2022,JUL,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,8,24,MIAMI,18,07,1,1,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,6,24,MIAMI,18,03,1,1,3,1,2022-03-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,4,8,24,MIAMI,18,04,1,1,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,18,24,MIAMI,18,08,1,1,3,1,2023-08-01
+2023,FEB,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,4,24,MIAMI,18,02,1,1,3,1,2023-02-01
+2023,JAN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,3,24,MIAMI,18,01,1,1,3,1,2023-01-01
+2023,JUL,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,3,11,24,MIAMI,18,07,1,1,3,1,2023-07-01
+2023,MAY,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,2,13,24,MIAMI,18,05,1,1,3,1,2023-05-01
+2023,SEP,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,1,24,MIAMI,18,09,1,1,3,1,2023-09-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,5,2,24,MIAMI,18,12,1,1,3,1,2024-12-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,3,2,24,MIAMI,18,01,1,1,3,1,2024-01-01
+2024,NOV,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,4,5,24,MIAMI,18,11,1,1,3,1,2024-11-01
+2024,OCT,Office of Field Operations,Coastal/Interior,Other,MIAMI FIELD OFFICE,Fentanyl,1,0,24,MIAMI,18,10,1,1,3,1,2024-10-01
+2020,APR,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,1,0,59,MIAMI,18,04,2,1,3,1,2020-04-01
+2020,FEB,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,1,0,59,MIAMI,18,02,2,1,3,1,2020-02-01
+2021,OCT,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,1,0,59,MIAMI,18,10,2,1,3,1,2021-10-01
+2021,SEP,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,1,0,59,MIAMI,18,09,2,1,3,1,2021-09-01
+2022,APR,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,2,0,59,MIAMI,18,04,2,1,3,1,2022-04-01
+2023,MAR,U.S. Border Patrol,Coastal/Interior,Other,MIAMI SECTOR,Fentanyl,1,0,59,MIAMI,18,03,2,1,3,1,2023-03-01
+2020,JAN,Air and Marine Operations,Coastal/Interior,Other,Miami Air And Marine Branch,Fentanyl,1,0,30,MIAMI,18,01,3,1,3,1,2020-01-01
+2020,MAR,Air and Marine Operations,Coastal/Interior,Other,Miami Air And Marine Branch,Fentanyl,1,0,30,MIAMI,18,03,3,1,3,1,2020-03-01
+2020,SEP,Air and Marine Operations,Coastal/Interior,Other,Miami Air And Marine Branch,Fentanyl,2,0,30,MIAMI,18,09,3,1,3,1,2020-09-01
+2021,NOV,Air and Marine Operations,Coastal/Interior,Other,Miami Air And Marine Branch,Fentanyl,1,0,30,MIAMI,18,11,3,1,3,1,2021-11-01
+2023,MAY,Air and Marine Operations,Coastal/Interior,Other,Miami Air And Marine Branch,Fentanyl,1,42,30,MIAMI,18,05,3,1,3,1,2023-05-01
+2019,APR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,31,13,NEW ORLEANS,9,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,3,13,NEW ORLEANS,9,08,1,1,3,1,2019-08-01
+2019,JAN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,0,13,NEW ORLEANS,9,01,1,1,3,1,2019-01-01
+2019,JUN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,22,13,NEW ORLEANS,9,06,1,1,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,13,13,NEW ORLEANS,9,03,1,1,3,1,2019-03-01
+2019,MAY,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,05,1,1,3,1,2019-05-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,6,14,13,NEW ORLEANS,9,08,1,1,3,1,2020-08-01
+2020,DEC,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,12,1,1,3,1,2020-12-01
+2020,FEB,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,02,1,1,3,1,2020-02-01
+2020,JUL,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,5,13,NEW ORLEANS,9,07,1,1,3,1,2020-07-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,3,8,13,NEW ORLEANS,9,06,1,1,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,03,1,1,3,1,2020-03-01
+2020,NOV,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,17,13,NEW ORLEANS,9,11,1,1,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,11,13,NEW ORLEANS,9,10,1,1,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,10,13,NEW ORLEANS,9,09,1,1,3,1,2020-09-01
+2021,APR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,3,4,13,NEW ORLEANS,9,04,1,1,3,1,2021-04-01
+2021,AUG,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,13,13,NEW ORLEANS,9,08,1,1,3,1,2021-08-01
+2021,DEC,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,16,13,NEW ORLEANS,9,12,1,1,3,1,2021-12-01
+2021,FEB,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,4,13,NEW ORLEANS,9,02,1,1,3,1,2021-02-01
+2021,JAN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,3,83,13,NEW ORLEANS,9,01,1,1,3,1,2021-01-01
+2021,JUL,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,54,13,NEW ORLEANS,9,07,1,1,3,1,2021-07-01
+2021,JUN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,4,13,NEW ORLEANS,9,06,1,1,3,1,2021-06-01
+2021,MAR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,3,6,13,NEW ORLEANS,9,03,1,1,3,1,2021-03-01
+2021,NOV,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,6,22,13,NEW ORLEANS,9,11,1,1,3,1,2021-11-01
+2021,OCT,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,10,13,NEW ORLEANS,9,10,1,1,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,8,13,NEW ORLEANS,9,09,1,1,3,1,2021-09-01
+2022,APR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,1,13,NEW ORLEANS,9,04,1,1,3,1,2022-04-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,62,13,NEW ORLEANS,9,08,1,1,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,12,1,1,3,1,2022-12-01
+2022,JAN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,5,13,NEW ORLEANS,9,01,1,1,3,1,2022-01-01
+2022,JUL,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,6,13,NEW ORLEANS,9,07,1,1,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,15,13,NEW ORLEANS,9,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,5,14,13,NEW ORLEANS,9,03,1,1,3,1,2022-03-01
+2022,MAY,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,1,13,NEW ORLEANS,9,05,1,1,3,1,2022-05-01
+2022,NOV,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,4,13,NEW ORLEANS,9,11,1,1,3,1,2022-11-01
+2022,OCT,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,7,13,NEW ORLEANS,9,10,1,1,3,1,2022-10-01
+2022,SEP,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,2,13,NEW ORLEANS,9,09,1,1,3,1,2022-09-01
+2023,AUG,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,4,13,NEW ORLEANS,9,08,1,1,3,1,2023-08-01
+2023,DEC,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,12,1,1,3,1,2023-12-01
+2023,FEB,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,0,13,NEW ORLEANS,9,02,1,1,3,1,2023-02-01
+2023,JAN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,2,1,13,NEW ORLEANS,9,01,1,1,3,1,2023-01-01
+2023,JUL,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,07,1,1,3,1,2023-07-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,2,13,NEW ORLEANS,9,06,1,1,3,1,2023-06-01
+2023,MAR,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,1,13,NEW ORLEANS,9,03,1,1,3,1,2023-03-01
+2023,NOV,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,22,13,NEW ORLEANS,9,11,1,1,3,1,2023-11-01
+2023,OCT,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,0,13,NEW ORLEANS,9,10,1,1,3,1,2023-10-01
+2023,SEP,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,0,13,NEW ORLEANS,9,09,1,1,3,1,2023-09-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,1,0,13,NEW ORLEANS,9,12,1,1,3,1,2024-12-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,NEW ORLEANS FIELD OFFICE,Fentanyl,4,5,13,NEW ORLEANS,9,01,1,1,3,1,2024-01-01
+2021,OCT,U.S. Border Patrol,Coastal/Interior,Other,NEW ORLEANS SECTOR,Fentanyl,1,0,27,NEW ORLEANS,9,10,2,1,3,1,2021-10-01
+2023,SEP,U.S. Border Patrol,Coastal/Interior,Other,NEW ORLEANS SECTOR,Fentanyl,1,48,27,NEW ORLEANS,9,09,2,1,3,1,2023-09-01
+2024,DEC,U.S. Border Patrol,Coastal/Interior,Other,NEW ORLEANS SECTOR,Fentanyl,1,0,27,NEW ORLEANS,9,12,2,1,3,1,2024-12-01
+2024,OCT,U.S. Border Patrol,Coastal/Interior,Other,NEW ORLEANS SECTOR,Fentanyl,1,19,27,NEW ORLEANS,9,10,2,1,3,1,2024-10-01
+2021,JUN,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,0,39,NEW ORLEANS,9,06,3,1,3,1,2021-06-01
+2021,MAR,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,2,4,39,NEW ORLEANS,9,03,3,1,3,1,2021-03-01
+2022,APR,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,0,39,NEW ORLEANS,9,04,3,1,3,1,2022-04-01
+2022,JUN,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,0,39,NEW ORLEANS,9,06,3,1,3,1,2022-06-01
+2022,MAR,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,2,0,39,NEW ORLEANS,9,03,3,1,3,1,2022-03-01
+2023,AUG,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,2,2,39,NEW ORLEANS,9,08,3,1,3,1,2023-08-01
+2023,FEB,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,1,39,NEW ORLEANS,9,02,3,1,3,1,2023-02-01
+2023,JAN,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,0,39,NEW ORLEANS,9,01,3,1,3,1,2023-01-01
+2023,JUN,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,2,0,39,NEW ORLEANS,9,06,3,1,3,1,2023-06-01
+2023,MAR,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,1,39,NEW ORLEANS,9,03,3,1,3,1,2023-03-01
+2024,OCT,Air and Marine Operations,Coastal/Interior,Other,New Orleans Air And Marine Branch,Fentanyl,1,0,39,NEW ORLEANS,9,10,3,1,3,1,2024-10-01
+2019,APR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,04,1,1,3,1,2019-04-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,08,1,1,3,1,2019-08-01
+2019,DEC,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,6,5,29,NEW YORK,21,12,1,1,3,1,2019-12-01
+2019,JAN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,01,1,1,3,1,2019-01-01
+2019,JUL,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,2,1,29,NEW YORK,21,07,1,1,3,1,2019-07-01
+2019,JUN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,2,29,NEW YORK,21,06,1,1,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,5,0,29,NEW YORK,21,03,1,1,3,1,2019-03-01
+2019,MAY,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,2,0,29,NEW YORK,21,05,1,1,3,1,2019-05-01
+2019,NOV,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,15,9,29,NEW YORK,21,11,1,1,3,1,2019-11-01
+2019,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,5,1,29,NEW YORK,21,10,1,1,3,1,2019-10-01
+2019,SEP,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,8,0,29,NEW YORK,21,09,1,1,3,1,2019-09-01
+2020,APR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,6,0,29,NEW YORK,21,04,1,1,3,1,2020-04-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,08,1,1,3,1,2020-08-01
+2020,FEB,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,02,1,1,3,1,2020-02-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,5,0,29,NEW YORK,21,06,1,1,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,17,0,29,NEW YORK,21,03,1,1,3,1,2020-03-01
+2020,MAY,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,6,4,29,NEW YORK,21,05,1,1,3,1,2020-05-01
+2020,NOV,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,11,1,1,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,9,0,29,NEW YORK,21,10,1,1,3,1,2020-10-01
+2021,AUG,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,11,0,29,NEW YORK,21,08,1,1,3,1,2021-08-01
+2021,DEC,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,12,1,1,3,1,2021-12-01
+2021,FEB,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,2,0,29,NEW YORK,21,02,1,1,3,1,2021-02-01
+2021,JUL,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,5,0,29,NEW YORK,21,07,1,1,3,1,2021-07-01
+2021,JUN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,6,0,29,NEW YORK,21,06,1,1,3,1,2021-06-01
+2021,MAR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,03,1,1,3,1,2021-03-01
+2021,MAY,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,05,1,1,3,1,2021-05-01
+2021,NOV,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,11,1,1,3,1,2021-11-01
+2021,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,10,1,1,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,09,1,1,3,1,2021-09-01
+2022,APR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,04,1,1,3,1,2022-04-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,9,29,NEW YORK,21,08,1,1,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,12,1,1,3,1,2022-12-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,4,0,29,NEW YORK,21,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,03,1,1,3,1,2022-03-01
+2022,MAY,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,15,0,29,NEW YORK,21,05,1,1,3,1,2022-05-01
+2022,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,10,1,1,3,1,2022-10-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,2,29,NEW YORK,21,04,1,1,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,5,14,29,NEW YORK,21,08,1,1,3,1,2023-08-01
+2023,JAN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,01,1,1,3,1,2023-01-01
+2023,JUL,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,07,1,1,3,1,2023-07-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,2,29,NEW YORK,21,06,1,1,3,1,2023-06-01
+2023,MAR,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,3,1,29,NEW YORK,21,03,1,1,3,1,2023-03-01
+2023,MAY,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,2,3,29,NEW YORK,21,05,1,1,3,1,2023-05-01
+2023,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,3,0,29,NEW YORK,21,10,1,1,3,1,2023-10-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,12,1,1,3,1,2024-12-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,2,5,29,NEW YORK,21,01,1,1,3,1,2024-01-01
+2024,OCT,Office of Field Operations,Coastal/Interior,Other,NEW YORK FIELD OFFICE,Fentanyl,1,0,29,NEW YORK,21,10,1,1,3,1,2024-10-01
+2019,APR,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,04,1,2,3,1,2019-04-01
+2019,JAN,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,01,1,2,3,1,2019-01-01
+2020,MAR,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,03,1,2,3,1,2020-03-01
+2020,MAY,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,05,1,2,2,1,2020-05-01
+2020,OCT,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,10,1,2,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,09,1,2,2,1,2020-09-01
+2021,MAR,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,03,1,2,2,1,2021-03-01
+2021,OCT,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,3,2,44,SEATTLE,34,10,1,2,2,1,2021-10-01
+2022,APR,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,04,1,2,2,1,2022-04-01
+2022,JUL,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,2,0,44,SEATTLE,34,07,1,2,2,1,2022-07-01
+2022,OCT,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,10,1,2,2,1,2022-10-01
+2023,APR,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,04,1,2,2,1,2023-04-01
+2023,DEC,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,12,1,2,2,1,2023-12-01
+2023,JUL,Office of Field Operations,Northern Border,Land Only,SEATTLE FIELD OFFICE,Fentanyl,1,0,44,SEATTLE,34,07,1,2,2,1,2023-07-01
+2023,MAR,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,3,0,44,SEATTLE,34,03,1,2,3,1,2023-03-01
+2024,OCT,Office of Field Operations,Northern Border,Other,SEATTLE FIELD OFFICE,Fentanyl,1,2,44,SEATTLE,34,10,1,2,3,1,2024-10-01
+2019,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,26,7,LAREDO,5,04,1,3,2,1,2019-04-01
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,08,1,3,2,1,2019-08-01
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,12,1,3,2,1,2019-12-01
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,5,7,LAREDO,5,02,1,3,2,1,2019-02-01
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,05,1,3,2,1,2019-05-01
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,11,1,3,2,1,2019-11-01
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2,7,LAREDO,5,10,1,3,2,1,2019-10-01
+2020,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2,7,LAREDO,5,04,1,3,2,1,2020-04-01
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,2,7,LAREDO,5,08,1,3,2,1,2020-08-01
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,9,7,LAREDO,5,02,1,3,2,1,2020-02-01
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,4,7,LAREDO,5,01,1,3,2,1,2020-01-01
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,12,7,LAREDO,5,07,1,3,2,1,2020-07-01
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,06,1,3,2,1,2020-06-01
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,4,7,LAREDO,5,10,1,3,2,1,2020-10-01
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,14,7,LAREDO,5,09,1,3,2,1,2020-09-01
+2021,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,23,7,LAREDO,5,04,1,3,2,1,2021-04-01
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,42,7,LAREDO,5,08,1,3,2,1,2021-08-01
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,324,7,LAREDO,5,12,1,3,2,1,2021-12-01
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,38,7,LAREDO,5,02,1,3,2,1,2021-02-01
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,17,7,LAREDO,5,01,1,3,2,1,2021-01-01
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,2,7,LAREDO,5,07,1,3,2,1,2021-07-01
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,6,71,7,LAREDO,5,06,1,3,2,1,2021-06-01
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,0,7,LAREDO,5,03,1,3,2,1,2021-03-01
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,9,7,LAREDO,5,05,1,3,2,1,2021-05-01
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,21,7,LAREDO,5,11,1,3,2,1,2021-11-01
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,14,7,LAREDO,5,10,1,3,2,1,2021-10-01
+2021,OCT,Office of Field Operations,Southwest Border,Other,LAREDO FIELD OFFICE,Fentanyl,1,4,7,LAREDO,5,10,1,3,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,16,7,LAREDO,5,09,1,3,2,1,2021-09-01
+2022,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,81,7,LAREDO,5,04,1,3,2,1,2022-04-01
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,126,7,LAREDO,5,08,1,3,2,1,2022-08-01
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,12,1,3,2,1,2022-12-01
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,11,7,LAREDO,5,02,1,3,2,1,2022-02-01
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,01,1,3,2,1,2022-01-01
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,2,7,LAREDO,5,07,1,3,2,1,2022-07-01
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,22,7,LAREDO,5,06,1,3,2,1,2022-06-01
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,9,9,7,LAREDO,5,03,1,3,2,1,2022-03-01
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,4,7,LAREDO,5,05,1,3,2,1,2022-05-01
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,1,7,LAREDO,5,11,1,3,2,1,2022-11-01
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,12,7,LAREDO,5,10,1,3,2,1,2022-10-01
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,9,7,LAREDO,5,09,1,3,2,1,2022-09-01
+2023,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,9,7,LAREDO,5,04,1,3,2,1,2023-04-01
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2,7,LAREDO,5,08,1,3,2,1,2023-08-01
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,7,7,LAREDO,5,12,1,3,2,1,2023-12-01
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,0,7,LAREDO,5,02,1,3,2,1,2023-02-01
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,44,7,LAREDO,5,01,1,3,2,1,2023-01-01
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,6,7,LAREDO,5,07,1,3,2,1,2023-07-01
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0,7,LAREDO,5,06,1,3,2,1,2023-06-01
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,23,7,LAREDO,5,03,1,3,2,1,2023-03-01
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,23,7,LAREDO,5,05,1,3,2,1,2023-05-01
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,14,7,LAREDO,5,11,1,3,2,1,2023-11-01
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,34,7,LAREDO,5,10,1,3,2,1,2023-10-01
+2024,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,57,7,LAREDO,5,12,1,3,2,1,2024-12-01
+2024,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,4,7,LAREDO,5,01,1,3,2,1,2024-01-01
+2024,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,18,7,LAREDO,5,10,1,3,2,1,2024-10-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,2,11,37,LAREDO,5,10,2,3,2,1,2022-10-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,1,2,37,LAREDO,5,07,2,3,2,1,2023-07-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,1,0,37,LAREDO,5,09,2,3,2,1,2023-09-01
+2021,AUG,Air and Marine Operations,Southwest Border,Land,Laredo Air Branch,Fentanyl,1,2,28,LAREDO,5,08,3,3,1,1,2021-08-01
+2021,DEC,Air and Marine Operations,Southwest Border,Land,Laredo Air Branch,Fentanyl,1,56,28,LAREDO,5,12,3,3,1,1,2021-12-01
+2022,JUN,Air and Marine Operations,Southwest Border,Land,Laredo Air Branch,Fentanyl,1,0,28,LAREDO,5,06,3,3,1,1,2022-06-01
+2024,NOV,Air and Marine Operations,Southwest Border,Land,Laredo Air Branch,Fentanyl,1,0,28,LAREDO,5,11,3,3,1,1,2024-11-01
+2024,OCT,Air and Marine Operations,Southwest Border,Land,Laredo Air Branch,Fentanyl,1,0,28,LAREDO,5,10,3,3,1,1,2024-10-01
+2019,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,49,1,SAN DIEGO,1,04,1,3,2,1,2019-04-01
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,21,211,1,SAN DIEGO,1,08,1,3,2,1,2019-08-01
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,6,40,1,SAN DIEGO,1,12,1,3,2,1,2019-12-01
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,142,1,SAN DIEGO,1,02,1,3,2,1,2019-02-01
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,8,61,1,SAN DIEGO,1,01,1,3,2,1,2019-01-01
+2019,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,22,101,1,SAN DIEGO,1,07,1,3,2,1,2019-07-01
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,148,1,SAN DIEGO,1,06,1,3,2,1,2019-06-01
+2019,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,13,183,1,SAN DIEGO,1,03,1,3,2,1,2019-03-01
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,20,334,1,SAN DIEGO,1,05,1,3,2,1,2019-05-01
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,9,102,1,SAN DIEGO,1,11,1,3,2,1,2019-11-01
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,4,72,1,SAN DIEGO,1,10,1,3,2,1,2019-10-01
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,14,43,1,SAN DIEGO,1,09,1,3,2,1,2019-09-01
+2020,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,17,137,1,SAN DIEGO,1,04,1,3,2,1,2020-04-01
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,62,226,1,SAN DIEGO,1,08,1,3,2,1,2020-08-01
+2020,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,14,63,1,SAN DIEGO,1,12,1,3,2,1,2020-12-01
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,16,114,1,SAN DIEGO,1,02,1,3,2,1,2020-02-01
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,16,72,1,SAN DIEGO,1,01,1,3,2,1,2020-01-01
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,49,527,1,SAN DIEGO,1,07,1,3,2,1,2020-07-01
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,51,214,1,SAN DIEGO,1,06,1,3,2,1,2020-06-01
+2020,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0,1,SAN DIEGO,1,06,1,3,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,15,112,1,SAN DIEGO,1,03,1,3,2,1,2020-03-01
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,53,152,1,SAN DIEGO,1,05,1,3,2,1,2020-05-01
+2020,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,25,153,1,SAN DIEGO,1,11,1,3,2,1,2020-11-01
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,23,115,1,SAN DIEGO,1,10,1,3,2,1,2020-10-01
+2020,OCT,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,46,1,SAN DIEGO,1,10,1,3,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,57,450,1,SAN DIEGO,1,09,1,3,2,1,2020-09-01
+2021,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,55,476,1,SAN DIEGO,1,04,1,3,2,1,2021-04-01
+2021,APR,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,18,1,SAN DIEGO,1,04,1,3,3,1,2021-04-01
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,61,819,1,SAN DIEGO,1,08,1,3,2,1,2021-08-01
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,49,553,1,SAN DIEGO,1,12,1,3,2,1,2021-12-01
+2021,DEC,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,2,13,1,SAN DIEGO,1,12,1,3,3,1,2021-12-01
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,523,1,SAN DIEGO,1,02,1,3,2,1,2021-02-01
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,37,281,1,SAN DIEGO,1,01,1,3,2,1,2021-01-01
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,481,1,SAN DIEGO,1,07,1,3,2,1,2021-07-01
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,46,633,1,SAN DIEGO,1,06,1,3,2,1,2021-06-01
+2021,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,17,1,SAN DIEGO,1,06,1,3,3,1,2021-06-01
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,52,406,1,SAN DIEGO,1,03,1,3,2,1,2021-03-01
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,59,459,1,SAN DIEGO,1,05,1,3,2,1,2021-05-01
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,64,510,1,SAN DIEGO,1,11,1,3,2,1,2021-11-01
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,59,833,1,SAN DIEGO,1,10,1,3,2,1,2021-10-01
+2021,OCT,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0,1,SAN DIEGO,1,10,1,3,3,1,2021-10-01
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,47,323,1,SAN DIEGO,1,09,1,3,2,1,2021-09-01
+2022,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,36,734,1,SAN DIEGO,1,04,1,3,2,1,2022-04-01
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,373,1,SAN DIEGO,1,08,1,3,2,1,2022-08-01
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,34,219,1,SAN DIEGO,1,12,1,3,2,1,2022-12-01
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,42,334,1,SAN DIEGO,1,02,1,3,2,1,2022-02-01
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,413,1,SAN DIEGO,1,01,1,3,2,1,2022-01-01
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,1121,1,SAN DIEGO,1,07,1,3,2,1,2022-07-01
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,33,301,1,SAN DIEGO,1,06,1,3,2,1,2022-06-01
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,54,420,1,SAN DIEGO,1,03,1,3,2,1,2022-03-01
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,38,509,1,SAN DIEGO,1,05,1,3,2,1,2022-05-01
+2022,MAY,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,2,1,SAN DIEGO,1,05,1,3,3,1,2022-05-01
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,46,904,1,SAN DIEGO,1,11,1,3,2,1,2022-11-01
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,37,489,1,SAN DIEGO,1,10,1,3,2,1,2022-10-01
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,39,879,1,SAN DIEGO,1,09,1,3,2,1,2022-09-01
+2023,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,53,2172,1,SAN DIEGO,1,04,1,3,2,1,2023-04-01
+2023,APR,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0,1,SAN DIEGO,1,04,1,3,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,44,878,1,SAN DIEGO,1,08,1,3,2,1,2023-08-01
+2023,AUG,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,3,1,SAN DIEGO,1,08,1,3,3,1,2023-08-01
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,44,589,1,SAN DIEGO,1,12,1,3,2,1,2023-12-01
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,36,711,1,SAN DIEGO,1,02,1,3,2,1,2023-02-01
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,26,399,1,SAN DIEGO,1,01,1,3,2,1,2023-01-01
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,38,765,1,SAN DIEGO,1,07,1,3,2,1,2023-07-01
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,48,1119,1,SAN DIEGO,1,06,1,3,2,1,2023-06-01
+2023,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0,1,SAN DIEGO,1,06,1,3,3,1,2023-06-01
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,52,1074,1,SAN DIEGO,1,03,1,3,2,1,2023-03-01
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,55,928,1,SAN DIEGO,1,05,1,3,2,1,2023-05-01
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,34,721,1,SAN DIEGO,1,11,1,3,2,1,2023-11-01
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,45,1108,1,SAN DIEGO,1,10,1,3,2,1,2023-10-01
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,950,1,SAN DIEGO,1,09,1,3,2,1,2023-09-01
+2024,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,35,496,1,SAN DIEGO,1,12,1,3,2,1,2024-12-01
+2024,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,32,716,1,SAN DIEGO,1,01,1,3,2,1,2024-01-01
+2024,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,17,347,1,SAN DIEGO,1,11,1,3,2,1,2024-11-01
+2024,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,22,408,1,SAN DIEGO,1,10,1,3,2,1,2024-10-01
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,9,3,SAN DIEGO,1,08,2,3,2,1,2019-08-01
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2,3,SAN DIEGO,1,02,2,3,2,1,2019-02-01
+2019,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,44,3,SAN DIEGO,1,01,2,3,2,1,2019-01-01
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,7,3,SAN DIEGO,1,07,2,3,2,1,2019-07-01
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,18,3,SAN DIEGO,1,06,2,3,2,1,2019-06-01
+2019,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2,3,SAN DIEGO,1,03,2,3,2,1,2019-03-01
+2019,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,7,3,SAN DIEGO,1,05,2,3,2,1,2019-05-01
+2019,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,14,3,SAN DIEGO,1,10,2,3,2,1,2019-10-01
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,0,3,SAN DIEGO,1,04,2,3,2,1,2020-04-01
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,223,3,SAN DIEGO,1,08,2,3,2,1,2020-08-01
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,5,3,SAN DIEGO,1,02,2,3,2,1,2020-02-01
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,39,3,SAN DIEGO,1,01,2,3,2,1,2020-01-01
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,23,3,SAN DIEGO,1,07,2,3,2,1,2020-07-01
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,26,3,SAN DIEGO,1,06,2,3,2,1,2020-06-01
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,15,3,SAN DIEGO,1,03,2,3,2,1,2020-03-01
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,0,3,SAN DIEGO,1,05,2,3,2,1,2020-05-01
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,24,3,SAN DIEGO,1,11,2,3,2,1,2020-11-01
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,23,3,SAN DIEGO,1,10,2,3,2,1,2020-10-01
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,0,3,SAN DIEGO,1,09,2,3,2,1,2020-09-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,35,3,SAN DIEGO,1,04,2,3,2,1,2021-04-01
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,12,3,SAN DIEGO,1,08,2,3,2,1,2021-08-01
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2,3,SAN DIEGO,1,12,2,3,2,1,2021-12-01
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,5,3,SAN DIEGO,1,02,2,3,2,1,2021-02-01
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,169,3,SAN DIEGO,1,01,2,3,2,1,2021-01-01
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,31,3,SAN DIEGO,1,07,2,3,2,1,2021-07-01
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,20,3,SAN DIEGO,1,06,2,3,2,1,2021-06-01
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,2,3,SAN DIEGO,1,03,2,3,2,1,2021-03-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,8,3,SAN DIEGO,1,05,2,3,2,1,2021-05-01
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,15,3,SAN DIEGO,1,11,2,3,2,1,2021-11-01
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,77,3,SAN DIEGO,1,10,2,3,2,1,2021-10-01
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,32,3,SAN DIEGO,1,09,2,3,2,1,2021-09-01
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,10,106,3,SAN DIEGO,1,04,2,3,2,1,2022-04-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,12,135,3,SAN DIEGO,1,08,2,3,2,1,2022-08-01
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,24,3,SAN DIEGO,1,12,2,3,2,1,2022-12-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,64,3,SAN DIEGO,1,02,2,3,2,1,2022-02-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,0,3,SAN DIEGO,1,01,2,3,2,1,2022-01-01
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,303,3,SAN DIEGO,1,07,2,3,2,1,2022-07-01
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,42,3,SAN DIEGO,1,06,2,3,2,1,2022-06-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,116,3,SAN DIEGO,1,03,2,3,2,1,2022-03-01
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,150,3,SAN DIEGO,1,05,2,3,2,1,2022-05-01
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,30,3,SAN DIEGO,1,11,2,3,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,77,3,SAN DIEGO,1,10,2,3,2,1,2022-10-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,49,3,SAN DIEGO,1,04,2,3,2,1,2023-04-01
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,60,3,SAN DIEGO,1,08,2,3,2,1,2023-08-01
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,1,3,SAN DIEGO,1,12,2,3,2,1,2023-12-01
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,259,3,SAN DIEGO,1,02,2,3,2,1,2023-02-01
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,260,3,SAN DIEGO,1,01,2,3,2,1,2023-01-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,44,3,SAN DIEGO,1,07,2,3,2,1,2023-07-01
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,57,3,SAN DIEGO,1,06,2,3,2,1,2023-06-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,233,3,SAN DIEGO,1,03,2,3,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,232,3,SAN DIEGO,1,05,2,3,2,1,2023-05-01
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,61,3,SAN DIEGO,1,10,2,3,2,1,2023-10-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,23,3,SAN DIEGO,1,09,2,3,2,1,2023-09-01
+2024,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,24,3,SAN DIEGO,1,12,2,3,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,45,3,SAN DIEGO,1,01,2,3,2,1,2024-01-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,130,3,SAN DIEGO,1,11,2,3,2,1,2024-11-01
+2024,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,0,3,SAN DIEGO,1,10,2,3,2,1,2024-10-01
+2019,APR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,4,19,SAN DIEGO,1,04,3,3,3,1,2019-04-01
+2019,JAN,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,0,19,SAN DIEGO,1,01,3,3,3,1,2019-01-01
+2019,MAY,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,1,19,SAN DIEGO,1,05,3,3,3,1,2019-05-01
+2019,SEP,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,0,19,SAN DIEGO,1,09,3,3,3,1,2019-09-01
+2020,AUG,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,27,19,SAN DIEGO,1,08,3,3,3,1,2020-08-01
+2020,FEB,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,33,19,SAN DIEGO,1,02,3,3,3,1,2020-02-01
+2020,JAN,Air and Marine Operations,Southwest Border,Land,San Diego Air And Marine Branch,Fentanyl,1,2,19,SAN DIEGO,1,01,3,3,1,1,2020-01-01
+2020,JUL,Air and Marine Operations,Southwest Border,Land,San Diego Air And Marine Branch,Fentanyl,1,12,19,SAN DIEGO,1,07,3,3,1,1,2020-07-01
+2020,JUN,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,0,19,SAN DIEGO,1,06,3,3,3,1,2020-06-01
+2020,MAR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,11,19,SAN DIEGO,1,03,3,3,3,1,2020-03-01
+2020,MAY,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,0,19,SAN DIEGO,1,05,3,3,3,1,2020-05-01
+2020,NOV,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,3,37,19,SAN DIEGO,1,11,3,3,3,1,2020-11-01
+2020,OCT,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,3,28,19,SAN DIEGO,1,10,3,3,3,1,2020-10-01
+2021,APR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,3,19,SAN DIEGO,1,04,3,3,3,1,2021-04-01
+2021,AUG,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,12,19,SAN DIEGO,1,08,3,3,3,1,2021-08-01
+2021,JUL,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,6,19,SAN DIEGO,1,07,3,3,3,1,2021-07-01
+2021,JUN,Air and Marine Operations,Southwest Border,Land,San Diego Air And Marine Branch,Fentanyl,1,0,19,SAN DIEGO,1,06,3,3,1,1,2021-06-01
+2021,JUN,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,3,19,SAN DIEGO,1,06,3,3,3,1,2021-06-01
+2021,MAR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,2,19,SAN DIEGO,1,03,3,3,3,1,2021-03-01
+2021,SEP,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,5,12,19,SAN DIEGO,1,09,3,3,3,1,2021-09-01
+2022,APR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,17,19,SAN DIEGO,1,04,3,3,3,1,2022-04-01
+2022,FEB,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,0,19,SAN DIEGO,1,02,3,3,3,1,2022-02-01
+2022,JAN,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,8,19,SAN DIEGO,1,01,3,3,3,1,2022-01-01
+2022,MAR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,0,19,SAN DIEGO,1,03,3,3,3,1,2022-03-01
+2022,NOV,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,5,10,19,SAN DIEGO,1,11,3,3,3,1,2022-11-01
+2022,SEP,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,3,31,19,SAN DIEGO,1,09,3,3,3,1,2022-09-01
+2023,FEB,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,2,19,SAN DIEGO,1,02,3,3,3,1,2023-02-01
+2023,JUN,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,2,19,SAN DIEGO,1,06,3,3,3,1,2023-06-01
+2023,MAR,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,2,19,SAN DIEGO,1,03,3,3,3,1,2023-03-01
+2023,OCT,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,1,1,19,SAN DIEGO,1,10,3,3,3,1,2023-10-01
+2023,SEP,Air and Marine Operations,Southwest Border,Other,San Diego Air And Marine Branch,Fentanyl,2,0,19,SAN DIEGO,1,09,3,3,3,1,2023-09-01
+2019,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,112,2,TUCSON,2,04,1,3,2,1,2019-04-01
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,12,19,2,TUCSON,2,08,1,3,2,1,2019-08-01
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,5,29,2,TUCSON,2,12,1,3,2,1,2019-12-01
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,22,2,TUCSON,2,02,1,3,2,1,2019-02-01
+2019,FEB,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,02,1,3,3,1,2019-02-01
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,268,2,TUCSON,2,01,1,3,2,1,2019-01-01
+2019,JAN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,01,1,3,3,1,2019-01-01
+2019,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,27,2,TUCSON,2,07,1,3,2,1,2019-07-01
+2019,JUL,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,2,2,TUCSON,2,07,1,3,3,1,2019-07-01
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,76,2,TUCSON,2,06,1,3,2,1,2019-06-01
+2019,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,06,1,3,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,17,26,2,TUCSON,2,03,1,3,2,1,2019-03-01
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,39,2,TUCSON,2,05,1,3,2,1,2019-05-01
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,7,7,2,TUCSON,2,11,1,3,2,1,2019-11-01
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,11,62,2,TUCSON,2,10,1,3,2,1,2019-10-01
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,25,128,2,TUCSON,2,09,1,3,2,1,2019-09-01
+2020,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,68,2,TUCSON,2,04,1,3,2,1,2020-04-01
+2020,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0,2,TUCSON,2,04,1,3,3,1,2020-04-01
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,42,150,2,TUCSON,2,08,1,3,2,1,2020-08-01
+2020,AUG,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,08,1,3,3,1,2020-08-01
+2020,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,36,2,TUCSON,2,12,1,3,2,1,2020-12-01
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,14,102,2,TUCSON,2,02,1,3,2,1,2020-02-01
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,7,12,2,TUCSON,2,01,1,3,2,1,2020-01-01
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,33,132,2,TUCSON,2,07,1,3,2,1,2020-07-01
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,39,374,2,TUCSON,2,06,1,3,2,1,2020-06-01
+2020,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,06,1,3,3,1,2020-06-01
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,17,89,2,TUCSON,2,03,1,3,2,1,2020-03-01
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,59,2,TUCSON,2,05,1,3,2,1,2020-05-01
+2020,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0,2,TUCSON,2,05,1,3,3,1,2020-05-01
+2020,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,6,16,2,TUCSON,2,11,1,3,2,1,2020-11-01
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,14,67,2,TUCSON,2,10,1,3,2,1,2020-10-01
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,183,2,TUCSON,2,09,1,3,2,1,2020-09-01
+2020,SEP,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,09,1,3,3,1,2020-09-01
+2021,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,35,213,2,TUCSON,2,04,1,3,2,1,2021-04-01
+2021,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0,2,TUCSON,2,04,1,3,3,1,2021-04-01
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,24,191,2,TUCSON,2,08,1,3,2,1,2021-08-01
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,156,2,TUCSON,2,12,1,3,2,1,2021-12-01
+2021,DEC,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,7,2,TUCSON,2,12,1,3,3,1,2021-12-01
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,39,150,2,TUCSON,2,02,1,3,2,1,2021-02-01
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,196,2,TUCSON,2,01,1,3,2,1,2021-01-01
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,238,2,TUCSON,2,07,1,3,2,1,2021-07-01
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,248,2,TUCSON,2,06,1,3,2,1,2021-06-01
+2021,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,2,2,TUCSON,2,06,1,3,3,1,2021-06-01
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,37,170,2,TUCSON,2,03,1,3,2,1,2021-03-01
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,350,2,TUCSON,2,05,1,3,2,1,2021-05-01
+2021,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,05,1,3,3,1,2021-05-01
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,94,2,TUCSON,2,11,1,3,2,1,2021-11-01
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,25,131,2,TUCSON,2,10,1,3,2,1,2021-10-01
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,115,2,TUCSON,2,09,1,3,2,1,2021-09-01
+2022,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,22,171,2,TUCSON,2,04,1,3,2,1,2022-04-01
+2022,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0,2,TUCSON,2,04,1,3,3,1,2022-04-01
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,31,1312,2,TUCSON,2,08,1,3,2,1,2022-08-01
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,130,2,TUCSON,2,12,1,3,2,1,2022-12-01
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,88,2,TUCSON,2,02,1,3,2,1,2022-02-01
+2022,FEB,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,110,2,TUCSON,2,02,1,3,3,1,2022-02-01
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,324,2,TUCSON,2,01,1,3,2,1,2022-01-01
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,557,2,TUCSON,2,07,1,3,2,1,2022-07-01
+2022,JUL,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,07,1,3,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,13,183,2,TUCSON,2,06,1,3,2,1,2022-06-01
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,437,2,TUCSON,2,03,1,3,2,1,2022-03-01
+2022,MAR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,03,1,3,3,1,2022-03-01
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,343,2,TUCSON,2,05,1,3,2,1,2022-05-01
+2022,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,2,2,TUCSON,2,05,1,3,3,1,2022-05-01
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,19,136,2,TUCSON,2,11,1,3,2,1,2022-11-01
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,13,138,2,TUCSON,2,10,1,3,2,1,2022-10-01
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,661,2,TUCSON,2,09,1,3,2,1,2022-09-01
+2023,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,26,838,2,TUCSON,2,04,1,3,2,1,2023-04-01
+2023,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,04,1,3,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,24,730,2,TUCSON,2,08,1,3,2,1,2023-08-01
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,1762,2,TUCSON,2,12,1,3,2,1,2023-12-01
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,1147,2,TUCSON,2,02,1,3,2,1,2023-02-01
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,668,2,TUCSON,2,01,1,3,2,1,2023-01-01
+2023,JAN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,17,2,TUCSON,2,01,1,3,3,1,2023-01-01
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,12,715,2,TUCSON,2,07,1,3,2,1,2023-07-01
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,815,2,TUCSON,2,06,1,3,2,1,2023-06-01
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,1140,2,TUCSON,2,03,1,3,2,1,2023-03-01
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,31,1024,2,TUCSON,2,05,1,3,2,1,2023-05-01
+2023,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,05,1,3,3,1,2023-05-01
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,2029,2,TUCSON,2,11,1,3,2,1,2023-11-01
+2023,NOV,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0,2,TUCSON,2,11,1,3,3,1,2023-11-01
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,670,2,TUCSON,2,10,1,3,2,1,2023-10-01
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,415,2,TUCSON,2,09,1,3,2,1,2023-09-01
+2024,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,699,2,TUCSON,2,12,1,3,2,1,2024-12-01
+2024,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,17,955,2,TUCSON,2,01,1,3,2,1,2024-01-01
+2024,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,24,1217,2,TUCSON,2,11,1,3,2,1,2024-11-01
+2024,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,607,2,TUCSON,2,10,1,3,2,1,2024-10-01
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,0,4,TUCSON,2,04,2,3,2,1,2019-04-01
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,1,4,TUCSON,2,08,2,3,2,1,2019-08-01
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,4,4,TUCSON,2,07,2,3,2,1,2019-07-01
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0,4,TUCSON,2,06,2,3,2,1,2019-06-01
+2019,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,0,4,TUCSON,2,03,2,3,2,1,2019-03-01
+2019,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0,4,TUCSON,2,05,2,3,2,1,2019-05-01
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,0,4,TUCSON,2,11,2,3,2,1,2019-11-01
+2019,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,4,4,TUCSON,2,09,2,3,2,1,2019-09-01
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,9,13,4,TUCSON,2,04,2,3,2,1,2020-04-01
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,2,4,TUCSON,2,08,2,3,2,1,2020-08-01
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,1,4,TUCSON,2,12,2,3,2,1,2020-12-01
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,6,4,TUCSON,2,02,2,3,2,1,2020-02-01
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,7,4,4,TUCSON,2,01,2,3,2,1,2020-01-01
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,7,4,TUCSON,2,07,2,3,2,1,2020-07-01
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,14,4,TUCSON,2,06,2,3,2,1,2020-06-01
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,1,4,TUCSON,2,03,2,3,2,1,2020-03-01
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,15,4,TUCSON,2,05,2,3,2,1,2020-05-01
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,32,4,TUCSON,2,11,2,3,2,1,2020-11-01
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,4,4,TUCSON,2,10,2,3,2,1,2020-10-01
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,84,4,TUCSON,2,09,2,3,2,1,2020-09-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,15,25,4,TUCSON,2,04,2,3,2,1,2021-04-01
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,1,4,TUCSON,2,08,2,3,2,1,2021-08-01
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,18,4,TUCSON,2,12,2,3,2,1,2021-12-01
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,51,4,TUCSON,2,02,2,3,2,1,2021-02-01
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,2,4,TUCSON,2,01,2,3,2,1,2021-01-01
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,1,4,TUCSON,2,07,2,3,2,1,2021-07-01
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,30,4,TUCSON,2,06,2,3,2,1,2021-06-01
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,18,9,4,TUCSON,2,03,2,3,2,1,2021-03-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,65,4,TUCSON,2,05,2,3,2,1,2021-05-01
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0,4,TUCSON,2,11,2,3,2,1,2021-11-01
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,3,4,TUCSON,2,10,2,3,2,1,2021-10-01
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,69,4,TUCSON,2,09,2,3,2,1,2021-09-01
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,118,4,TUCSON,2,04,2,3,2,1,2022-04-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,19,207,4,TUCSON,2,08,2,3,2,1,2022-08-01
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,5,0,4,TUCSON,2,12,2,3,2,1,2022-12-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,15,3,4,TUCSON,2,02,2,3,2,1,2022-02-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,7,4,TUCSON,2,01,2,3,2,1,2022-01-01
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,14,4,TUCSON,2,07,2,3,2,1,2022-07-01
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,25,37,4,TUCSON,2,06,2,3,2,1,2022-06-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,18,6,4,TUCSON,2,03,2,3,2,1,2022-03-01
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,21,4,4,TUCSON,2,05,2,3,2,1,2022-05-01
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,11,4,TUCSON,2,11,2,3,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,150,4,TUCSON,2,10,2,3,2,1,2022-10-01
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,17,133,4,TUCSON,2,09,2,3,2,1,2022-09-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,40,4,TUCSON,2,04,2,3,2,1,2023-04-01
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,59,4,TUCSON,2,08,2,3,2,1,2023-08-01
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,0,4,TUCSON,2,12,2,3,2,1,2023-12-01
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,24,4,TUCSON,2,02,2,3,2,1,2023-02-01
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,2,4,TUCSON,2,01,2,3,2,1,2023-01-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,20,4,TUCSON,2,07,2,3,2,1,2023-07-01
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,132,4,TUCSON,2,06,2,3,2,1,2023-06-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,100,4,TUCSON,2,03,2,3,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,187,4,TUCSON,2,05,2,3,2,1,2023-05-01
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,103,4,TUCSON,2,11,2,3,2,1,2023-11-01
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,29,4,TUCSON,2,10,2,3,2,1,2023-10-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,0,4,TUCSON,2,09,2,3,2,1,2023-09-01
+2024,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,0,4,TUCSON,2,12,2,3,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,1,4,TUCSON,2,01,2,3,2,1,2024-01-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,438,4,TUCSON,2,11,2,3,2,1,2024-11-01
+2024,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,223,4,TUCSON,2,10,2,3,2,1,2024-10-01
+2019,APR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,04,3,3,1,1,2019-04-01
+2019,AUG,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,3,9,TUCSON,2,08,3,3,1,1,2019-08-01
+2019,FEB,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,8,9,TUCSON,2,02,3,3,1,1,2019-02-01
+2019,JUL,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,1,9,TUCSON,2,07,3,3,1,1,2019-07-01
+2019,JUN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,14,9,TUCSON,2,06,3,3,1,1,2019-06-01
+2019,MAR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,03,3,3,1,1,2019-03-01
+2019,MAY,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,5,9,TUCSON,2,05,3,3,1,1,2019-05-01
+2019,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,3,9,TUCSON,2,11,3,3,1,1,2019-11-01
+2019,SEP,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,09,3,3,1,1,2019-09-01
+2020,APR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,0,9,TUCSON,2,04,3,3,1,1,2020-04-01
+2020,AUG,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,5,7,9,TUCSON,2,08,3,3,1,1,2020-08-01
+2020,DEC,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,7,9,TUCSON,2,12,3,3,1,1,2020-12-01
+2020,FEB,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,1,9,TUCSON,2,02,3,3,1,1,2020-02-01
+2020,JAN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,14,9,TUCSON,2,01,3,3,1,1,2020-01-01
+2020,JUL,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,5,9,TUCSON,2,07,3,3,1,1,2020-07-01
+2020,JUN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,4,2,9,TUCSON,2,06,3,3,1,1,2020-06-01
+2020,MAR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,2,9,TUCSON,2,03,3,3,1,1,2020-03-01
+2020,MAY,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,1,9,TUCSON,2,05,3,3,1,1,2020-05-01
+2020,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,0,9,TUCSON,2,11,3,3,1,1,2020-11-01
+2020,OCT,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,1,9,TUCSON,2,10,3,3,1,1,2020-10-01
+2020,SEP,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,09,3,3,1,1,2020-09-01
+2021,APR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,1,9,TUCSON,2,04,3,3,1,1,2021-04-01
+2021,AUG,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,10,64,9,TUCSON,2,08,3,3,1,1,2021-08-01
+2021,DEC,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,12,3,3,1,1,2021-12-01
+2021,FEB,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,4,32,9,TUCSON,2,02,3,3,1,1,2021-02-01
+2021,JAN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,0,9,TUCSON,2,01,3,3,1,1,2021-01-01
+2021,JUL,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,20,9,TUCSON,2,07,3,3,1,1,2021-07-01
+2021,MAR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,6,19,9,TUCSON,2,03,3,3,1,1,2021-03-01
+2021,MAY,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,1,9,TUCSON,2,05,3,3,1,1,2021-05-01
+2021,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,8,9,TUCSON,2,11,3,3,1,1,2021-11-01
+2021,OCT,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,6,9,TUCSON,2,10,3,3,1,1,2021-10-01
+2021,SEP,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,7,9,TUCSON,2,09,3,3,1,1,2021-09-01
+2022,AUG,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,4,25,9,TUCSON,2,08,3,3,1,1,2022-08-01
+2022,DEC,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,6,2,9,TUCSON,2,12,3,3,1,1,2022-12-01
+2022,FEB,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,37,9,TUCSON,2,02,3,3,1,1,2022-02-01
+2022,JAN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,9,21,9,TUCSON,2,01,3,3,1,1,2022-01-01
+2022,JUN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,6,38,9,TUCSON,2,06,3,3,1,1,2022-06-01
+2022,MAR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,0,9,TUCSON,2,03,3,3,1,1,2022-03-01
+2022,MAY,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,26,9,TUCSON,2,05,3,3,1,1,2022-05-01
+2022,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,4,7,9,TUCSON,2,11,3,3,1,1,2022-11-01
+2022,OCT,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,5,5,9,TUCSON,2,10,3,3,1,1,2022-10-01
+2022,SEP,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,5,95,9,TUCSON,2,09,3,3,1,1,2022-09-01
+2023,APR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,6,9,9,TUCSON,2,04,3,3,1,1,2023-04-01
+2023,AUG,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,14,9,TUCSON,2,08,3,3,1,1,2023-08-01
+2023,DEC,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,5,84,9,TUCSON,2,12,3,3,1,1,2023-12-01
+2023,FEB,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,12,9,TUCSON,2,02,3,3,1,1,2023-02-01
+2023,JAN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,61,9,TUCSON,2,01,3,3,1,1,2023-01-01
+2023,JUN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,1,9,TUCSON,2,06,3,3,1,1,2023-06-01
+2023,MAR,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,5,9,TUCSON,2,03,3,3,1,1,2023-03-01
+2023,MAY,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,3,21,9,TUCSON,2,05,3,3,1,1,2023-05-01
+2023,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,5,9,9,TUCSON,2,11,3,3,1,1,2023-11-01
+2023,OCT,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,11,9,TUCSON,2,10,3,3,1,1,2023-10-01
+2023,SEP,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,1,2,9,TUCSON,2,09,3,3,1,1,2023-09-01
+2024,JAN,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,4,21,9,TUCSON,2,01,3,3,1,1,2024-01-01
+2024,NOV,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,57,9,TUCSON,2,11,3,3,1,1,2024-11-01
+2024,OCT,Air and Marine Operations,Southwest Border,Land,Tucson Air Branch,Fentanyl,2,11,9,TUCSON,2,10,3,3,1,1,2024-10-01
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,18,12,EL CENTRO,10,04,2,3,2,1,2019-04-01
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,3,12,EL CENTRO,10,08,2,3,2,1,2019-08-01
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,4,12,EL CENTRO,10,07,2,3,2,1,2019-07-01
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,12,12,EL CENTRO,10,11,2,3,2,1,2019-11-01
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,5,12,EL CENTRO,10,08,2,3,2,1,2020-08-01
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,01,2,3,2,1,2020-01-01
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,26,12,EL CENTRO,10,06,2,3,2,1,2020-06-01
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,17,12,EL CENTRO,10,03,2,3,2,1,2020-03-01
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,05,2,3,2,1,2020-05-01
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,15,12,EL CENTRO,10,10,2,3,2,1,2020-10-01
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,09,2,3,2,1,2020-09-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,11,12,EL CENTRO,10,04,2,3,2,1,2021-04-01
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,08,2,3,2,1,2021-08-01
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,2,12,EL CENTRO,10,12,2,3,2,1,2021-12-01
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,02,2,3,2,1,2021-02-01
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,7,12,EL CENTRO,10,01,2,3,2,1,2021-01-01
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,07,2,3,2,1,2021-07-01
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,06,2,3,2,1,2021-06-01
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,6,12,EL CENTRO,10,03,2,3,2,1,2021-03-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,05,2,3,2,1,2021-05-01
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,1,12,EL CENTRO,10,11,2,3,2,1,2021-11-01
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,5,27,12,EL CENTRO,10,10,2,3,2,1,2021-10-01
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,2,12,EL CENTRO,10,09,2,3,2,1,2021-09-01
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,52,12,EL CENTRO,10,04,2,3,2,1,2022-04-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,08,2,3,2,1,2022-08-01
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,1,12,EL CENTRO,10,12,2,3,2,1,2022-12-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,10,12,EL CENTRO,10,02,2,3,2,1,2022-02-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,7,12,EL CENTRO,10,01,2,3,2,1,2022-01-01
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,14,12,EL CENTRO,10,07,2,3,2,1,2022-07-01
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,33,12,EL CENTRO,10,06,2,3,2,1,2022-06-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,6,12,EL CENTRO,10,03,2,3,2,1,2022-03-01
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,31,12,EL CENTRO,10,05,2,3,2,1,2022-05-01
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,0,12,EL CENTRO,10,11,2,3,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,4,12,EL CENTRO,10,10,2,3,2,1,2022-10-01
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,57,12,EL CENTRO,10,09,2,3,2,1,2022-09-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,13,12,EL CENTRO,10,04,2,3,2,1,2023-04-01
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,12,2,3,2,1,2023-12-01
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,01,2,3,2,1,2023-01-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,6,12,EL CENTRO,10,07,2,3,2,1,2023-07-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,03,2,3,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,46,12,EL CENTRO,10,05,2,3,2,1,2023-05-01
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,1,12,EL CENTRO,10,11,2,3,2,1,2023-11-01
+2024,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0,12,EL CENTRO,10,12,2,3,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,17,12,EL CENTRO,10,01,2,3,2,1,2024-01-01
+2024,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,117,12,EL CENTRO,10,10,2,3,2,1,2024-10-01
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,11,22,RIO GRANDE VALLEY,17,04,2,3,2,1,2019-04-01
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,17,22,RIO GRANDE VALLEY,17,06,2,3,2,1,2020-06-01
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0,22,RIO GRANDE VALLEY,17,11,2,3,2,1,2020-11-01
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,12,22,RIO GRANDE VALLEY,17,09,2,3,2,1,2020-09-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,14,22,RIO GRANDE VALLEY,17,04,2,3,2,1,2021-04-01
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,0,22,RIO GRANDE VALLEY,17,01,2,3,2,1,2021-01-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,36,22,RIO GRANDE VALLEY,17,05,2,3,2,1,2021-05-01
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,55,22,RIO GRANDE VALLEY,17,11,2,3,2,1,2021-11-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0,22,RIO GRANDE VALLEY,17,08,2,3,2,1,2022-08-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0,22,RIO GRANDE VALLEY,17,02,2,3,2,1,2022-02-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,3,22,RIO GRANDE VALLEY,17,01,2,3,2,1,2022-01-01
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0,22,RIO GRANDE VALLEY,17,01,2,3,2,1,2023-01-01
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,5,22,RIO GRANDE VALLEY,17,06,2,3,2,1,2023-06-01
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,2,22,RIO GRANDE VALLEY,17,11,2,3,2,1,2023-11-01
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,04,2,3,2,1,2019-04-01
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,17,8,YUMA,6,02,2,3,2,1,2019-02-01
+2019,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,16,8,YUMA,6,01,2,3,2,1,2019-01-01
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,3,8,YUMA,6,07,2,3,2,1,2019-07-01
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,2,8,YUMA,6,06,2,3,2,1,2019-06-01
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,1,8,YUMA,6,11,2,3,2,1,2019-11-01
+2019,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,7,8,YUMA,6,09,2,3,2,1,2019-09-01
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,18,8,YUMA,6,04,2,3,2,1,2020-04-01
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,14,8,YUMA,6,08,2,3,2,1,2020-08-01
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,2,8,YUMA,6,12,2,3,2,1,2020-12-01
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,13,8,YUMA,6,02,2,3,2,1,2020-02-01
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,3,8,YUMA,6,01,2,3,2,1,2020-01-01
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,20,8,YUMA,6,07,2,3,2,1,2020-07-01
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,5,8,YUMA,6,03,2,3,2,1,2020-03-01
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,2,8,YUMA,6,05,2,3,2,1,2020-05-01
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,1,8,YUMA,6,11,2,3,2,1,2020-11-01
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,21,8,YUMA,6,10,2,3,2,1,2020-10-01
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,4,8,YUMA,6,09,2,3,2,1,2020-09-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,7,8,YUMA,6,04,2,3,2,1,2021-04-01
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,08,2,3,2,1,2021-08-01
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,5,17,8,YUMA,6,12,2,3,2,1,2021-12-01
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,01,2,3,2,1,2021-01-01
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,17,8,YUMA,6,07,2,3,2,1,2021-07-01
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,10,8,YUMA,6,03,2,3,2,1,2021-03-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0,8,YUMA,6,05,2,3,2,1,2021-05-01
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,3,8,YUMA,6,11,2,3,2,1,2021-11-01
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,28,8,YUMA,6,10,2,3,2,1,2021-10-01
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,16,8,YUMA,6,04,2,3,2,1,2022-04-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,08,2,3,2,1,2022-08-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0,8,YUMA,6,01,2,3,2,1,2022-01-01
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,46,8,YUMA,6,07,2,3,2,1,2022-07-01
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,06,2,3,2,1,2022-06-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,4,8,YUMA,6,03,2,3,2,1,2022-03-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0,8,YUMA,6,10,2,3,2,1,2022-10-01
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,77,8,YUMA,6,09,2,3,2,1,2022-09-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0,8,YUMA,6,04,2,3,2,1,2023-04-01
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0,8,YUMA,6,08,2,3,2,1,2023-08-01
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,93,8,YUMA,6,02,2,3,2,1,2023-02-01
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0,8,YUMA,6,01,2,3,2,1,2023-01-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,178,8,YUMA,6,07,2,3,2,1,2023-07-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,194,8,YUMA,6,03,2,3,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,192,8,YUMA,6,05,2,3,2,1,2023-05-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,4,8,YUMA,6,09,2,3,2,1,2023-09-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,3,8,YUMA,6,11,2,3,2,1,2024-11-01
+2024,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,26,8,YUMA,6,10,2,3,2,1,2024-10-01
+2020,JUL,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,1,21,YUMA,6,07,3,3,1,1,2020-07-01
+2020,JUN,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,0,21,YUMA,6,06,3,3,1,1,2020-06-01
+2021,AUG,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,0,21,YUMA,6,08,3,3,1,1,2021-08-01
+2021,JUL,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,2,21,YUMA,6,07,3,3,1,1,2021-07-01
+2021,OCT,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,14,21,YUMA,6,10,3,3,1,1,2021-10-01
+2022,APR,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,1,21,YUMA,6,04,3,3,1,1,2022-04-01
+2022,AUG,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,1,21,YUMA,6,08,3,3,1,1,2022-08-01
+2022,JUL,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,1,21,YUMA,6,07,3,3,1,1,2022-07-01
+2022,JUN,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,3,3,21,YUMA,6,06,3,3,1,1,2022-06-01
+2022,MAR,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,0,21,YUMA,6,03,3,3,1,1,2022-03-01
+2022,MAY,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,0,21,YUMA,6,05,3,3,1,1,2022-05-01
+2022,NOV,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,0,21,YUMA,6,11,3,3,1,1,2022-11-01
+2022,SEP,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,4,21,YUMA,6,09,3,3,1,1,2022-09-01
+2023,APR,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,3,21,YUMA,6,04,3,3,1,1,2023-04-01
+2023,FEB,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,4,21,YUMA,6,02,3,3,1,1,2023-02-01
+2023,JAN,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,0,21,YUMA,6,01,3,3,1,1,2023-01-01
+2023,JUN,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,97,21,YUMA,6,06,3,3,1,1,2023-06-01
+2023,MAR,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,4,42,21,YUMA,6,03,3,3,1,1,2023-03-01
+2023,MAY,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,2,2,21,YUMA,6,05,3,3,1,1,2023-05-01
+2023,NOV,Air and Marine Operations,Southwest Border,Land,Yuma Air Branch,Fentanyl,1,2,21,YUMA,6,11,3,3,1,1,2023-11-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,23,0,51,SAN FRANCISCO,38,08,1,1,3,1,2019-08-01
+2019,JUL,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,07,1,1,3,1,2019-07-01
+2019,SEP,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,74,0,51,SAN FRANCISCO,38,09,1,1,3,1,2019-09-01
+2020,APR,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,04,1,1,3,1,2020-04-01
+2020,FEB,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,11,0,51,SAN FRANCISCO,38,02,1,1,3,1,2020-02-01
+2020,MAR,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,10,0,51,SAN FRANCISCO,38,03,1,1,3,1,2020-03-01
+2020,NOV,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,11,1,1,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,11,0,51,SAN FRANCISCO,38,10,1,1,3,1,2020-10-01
+2021,FEB,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,02,1,1,3,1,2021-02-01
+2021,JUL,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,07,1,1,3,1,2021-07-01
+2021,MAR,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,03,1,1,3,1,2021-03-01
+2021,NOV,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,2,0,51,SAN FRANCISCO,38,11,1,1,3,1,2021-11-01
+2021,SEP,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,4,0,51,SAN FRANCISCO,38,09,1,1,3,1,2021-09-01
+2023,NOV,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,11,1,1,3,1,2023-11-01
+2024,DEC,Office of Field Operations,Coastal/Interior,Other,SAN FRANCISCO FIELD OFFICE,Fentanyl,1,0,51,SAN FRANCISCO,38,12,1,1,3,1,2024-12-01
+2019,AUG,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,3,0,40,SAN JUAN,29,08,1,1,3,1,2019-08-01
+2019,NOV,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,11,1,1,3,1,2019-11-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,08,1,1,3,1,2020-08-01
+2020,OCT,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,2,0,40,SAN JUAN,29,10,1,1,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,09,1,1,3,1,2020-09-01
+2021,MAY,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,2,0,40,SAN JUAN,29,05,1,1,3,1,2021-05-01
+2021,OCT,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,3,6,40,SAN JUAN,29,10,1,1,3,1,2021-10-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,08,1,1,3,1,2022-08-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,2,0,40,SAN JUAN,29,06,1,1,3,1,2022-06-01
+2022,SEP,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,09,1,1,3,1,2022-09-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,04,1,1,3,1,2023-04-01
+2023,DEC,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,1,0,40,SAN JUAN,29,12,1,1,3,1,2023-12-01
+2023,JAN,Office of Field Operations,Coastal/Interior,Other,SAN JUAN FIELD OFFICE,Fentanyl,2,0,40,SAN JUAN,29,01,1,1,3,1,2023-01-01
+2019,AUG,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,30,0,32,DETROIT,23,08,1,2,3,1,2019-08-01
+2019,FEB,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,9,1,32,DETROIT,23,02,1,2,3,1,2019-02-01
+2019,JAN,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,6,0,32,DETROIT,23,01,1,2,3,1,2019-01-01
+2019,JUL,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,8,0,32,DETROIT,23,07,1,2,3,1,2019-07-01
+2019,JUN,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,06,1,2,3,1,2019-06-01
+2019,MAR,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,9,1,32,DETROIT,23,03,1,2,3,1,2019-03-01
+2019,MAY,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,7,32,DETROIT,23,05,1,2,2,1,2019-05-01
+2019,NOV,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,11,1,2,3,1,2019-11-01
+2019,SEP,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,8,0,32,DETROIT,23,09,1,2,3,1,2019-09-01
+2020,APR,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,12,32,DETROIT,23,04,1,2,2,1,2020-04-01
+2020,FEB,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,9,0,32,DETROIT,23,02,1,2,3,1,2020-02-01
+2020,JAN,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,2,32,DETROIT,23,01,1,2,3,1,2020-01-01
+2020,JUL,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,07,1,2,3,1,2020-07-01
+2020,JUN,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,1,32,DETROIT,23,06,1,2,2,1,2020-06-01
+2020,MAR,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,12,0,32,DETROIT,23,03,1,2,3,1,2020-03-01
+2020,NOV,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,11,1,2,3,1,2020-11-01
+2020,OCT,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,10,1,2,2,1,2020-10-01
+2020,OCT,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,10,1,2,3,1,2020-10-01
+2020,SEP,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,09,1,2,2,1,2020-09-01
+2021,APR,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,04,1,2,2,1,2021-04-01
+2021,AUG,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,2,32,DETROIT,23,08,1,2,3,1,2021-08-01
+2021,JUL,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,07,1,2,2,1,2021-07-01
+2021,JUL,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,07,1,2,3,1,2021-07-01
+2021,JUN,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,2,0,32,DETROIT,23,06,1,2,2,1,2021-06-01
+2021,MAR,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,2,0,32,DETROIT,23,03,1,2,2,1,2021-03-01
+2021,MAY,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,05,1,2,2,1,2021-05-01
+2022,JAN,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,01,1,2,2,1,2022-01-01
+2022,JUL,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,7,0,32,DETROIT,23,07,1,2,3,1,2022-07-01
+2022,MAR,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,5,0,32,DETROIT,23,03,1,2,3,1,2022-03-01
+2022,SEP,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,09,1,2,3,1,2022-09-01
+2023,DEC,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,12,1,2,2,1,2023-12-01
+2023,FEB,Office of Field Operations,Northern Border,Other,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,02,1,2,3,1,2023-02-01
+2023,SEP,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,09,1,2,2,1,2023-09-01
+2024,DEC,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,12,1,2,2,1,2024-12-01
+2024,OCT,Office of Field Operations,Northern Border,Land Only,DETROIT FIELD OFFICE,Fentanyl,1,0,32,DETROIT,23,10,1,2,2,1,2024-10-01
+2019,SEP,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,0,47,DETROIT,23,09,2,2,2,1,2019-09-01
+2020,AUG,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,0,47,DETROIT,23,08,2,2,2,1,2020-08-01
+2022,AUG,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,0,47,DETROIT,23,08,2,2,2,1,2022-08-01
+2022,SEP,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,2,47,DETROIT,23,09,2,2,2,1,2022-09-01
+2024,DEC,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,0,47,DETROIT,23,12,2,2,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Northern Border,Land Only,DETROIT SECTOR,Fentanyl,1,0,47,DETROIT,23,01,2,2,2,1,2024-01-01
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,10,6,EL PASO,4,08,1,3,2,1,2019-08-01
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,26,6,EL PASO,4,01,1,3,2,1,2019-01-01
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,12,6,EL PASO,4,06,1,3,2,1,2019-06-01
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,8,6,EL PASO,4,09,1,3,2,1,2019-09-01
+2020,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,4,6,EL PASO,4,04,1,3,2,1,2020-04-01
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,1,6,EL PASO,4,08,1,3,2,1,2020-08-01
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,24,6,EL PASO,4,07,1,3,2,1,2020-07-01
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,06,1,3,2,1,2020-06-01
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,03,1,3,2,1,2020-03-01
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,05,1,3,2,1,2020-05-01
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,3,6,EL PASO,4,09,1,3,2,1,2020-09-01
+2021,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,21,6,EL PASO,4,04,1,3,2,1,2021-04-01
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,43,6,EL PASO,4,08,1,3,2,1,2021-08-01
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,8,71,6,EL PASO,4,12,1,3,2,1,2021-12-01
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,6,6,EL PASO,4,02,1,3,2,1,2021-02-01
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,7,6,EL PASO,4,01,1,3,2,1,2021-01-01
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,3,6,EL PASO,4,07,1,3,2,1,2021-07-01
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,25,6,EL PASO,4,06,1,3,2,1,2021-06-01
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,30,6,EL PASO,4,03,1,3,2,1,2021-03-01
+2021,MAR,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,03,1,3,3,1,2021-03-01
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,2,6,EL PASO,4,05,1,3,2,1,2021-05-01
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,76,6,EL PASO,4,11,1,3,2,1,2021-11-01
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,49,6,EL PASO,4,10,1,3,2,1,2021-10-01
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,35,6,EL PASO,4,09,1,3,2,1,2021-09-01
+2022,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,0,6,EL PASO,4,04,1,3,2,1,2022-04-01
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,41,6,EL PASO,4,08,1,3,2,1,2022-08-01
+2022,AUG,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,08,1,3,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,84,6,EL PASO,4,12,1,3,2,1,2022-12-01
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,9,6,EL PASO,4,02,1,3,2,1,2022-02-01
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,34,6,EL PASO,4,01,1,3,2,1,2022-01-01
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,42,6,EL PASO,4,07,1,3,2,1,2022-07-01
+2022,JUL,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,07,1,3,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,29,6,EL PASO,4,06,1,3,2,1,2022-06-01
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,20,6,EL PASO,4,03,1,3,2,1,2022-03-01
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,24,6,EL PASO,4,05,1,3,2,1,2022-05-01
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,5,6,EL PASO,4,11,1,3,2,1,2022-11-01
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,11,20,6,EL PASO,4,10,1,3,2,1,2022-10-01
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,7,6,EL PASO,4,09,1,3,2,1,2022-09-01
+2023,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,7,28,6,EL PASO,4,04,1,3,2,1,2023-04-01
+2023,APR,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0,6,EL PASO,4,04,1,3,3,1,2023-04-01
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,37,6,EL PASO,4,08,1,3,2,1,2023-08-01
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,45,6,EL PASO,4,12,1,3,2,1,2023-12-01
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,13,47,6,EL PASO,4,02,1,3,2,1,2023-02-01
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,43,6,EL PASO,4,01,1,3,2,1,2023-01-01
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,6,6,EL PASO,4,07,1,3,2,1,2023-07-01
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,8,11,6,EL PASO,4,06,1,3,2,1,2023-06-01
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,78,6,EL PASO,4,03,1,3,2,1,2023-03-01
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,15,6,EL PASO,4,05,1,3,2,1,2023-05-01
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,16,6,EL PASO,4,11,1,3,2,1,2023-11-01
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,7,18,6,EL PASO,4,10,1,3,2,1,2023-10-01
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,3,6,6,EL PASO,4,09,1,3,2,1,2023-09-01
+2023,SEP,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,3,6,EL PASO,4,09,1,3,3,1,2023-09-01
+2024,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,37,6,EL PASO,4,12,1,3,2,1,2024-12-01
+2024,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,25,6,EL PASO,4,01,1,3,2,1,2024-01-01
+2024,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,3,18,6,EL PASO,4,11,1,3,2,1,2024-11-01
+2024,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,27,6,EL PASO,4,10,1,3,2,1,2024-10-01
+2019,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,12,2,3,2,1,2019-12-01
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2,23,EL PASO,4,02,2,3,2,1,2019-02-01
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2,23,EL PASO,4,08,2,3,2,1,2020-08-01
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,3,23,EL PASO,4,12,2,3,2,1,2020-12-01
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,07,2,3,2,1,2020-07-01
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2,23,EL PASO,4,06,2,3,2,1,2020-06-01
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,03,2,3,2,1,2020-03-01
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,05,2,3,2,1,2020-05-01
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,11,2,3,2,1,2020-11-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,29,23,EL PASO,4,04,2,3,2,1,2021-04-01
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,2,23,EL PASO,4,08,2,3,2,1,2021-08-01
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,02,2,3,2,1,2021-02-01
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,3,23,EL PASO,4,07,2,3,2,1,2021-07-01
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0,23,EL PASO,4,06,2,3,2,1,2021-06-01
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,2,23,EL PASO,4,03,2,3,2,1,2021-03-01
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,14,23,EL PASO,4,09,2,3,2,1,2021-09-01
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0,23,EL PASO,4,04,2,3,2,1,2022-04-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,13,23,EL PASO,4,08,2,3,2,1,2022-08-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0,23,EL PASO,4,02,2,3,2,1,2022-02-01
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,8,46,23,EL PASO,4,01,2,3,2,1,2022-01-01
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0,23,EL PASO,4,07,2,3,2,1,2022-07-01
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,1,23,EL PASO,4,06,2,3,2,1,2022-06-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0,23,EL PASO,4,03,2,3,2,1,2022-03-01
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,2,23,EL PASO,4,05,2,3,2,1,2022-05-01
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0,23,EL PASO,4,11,2,3,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,1,23,EL PASO,4,10,2,3,2,1,2022-10-01
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0,23,EL PASO,4,09,2,3,2,1,2022-09-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0,23,EL PASO,4,04,2,3,2,1,2023-04-01
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,0,23,EL PASO,4,08,2,3,2,1,2023-08-01
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,0,23,EL PASO,4,12,2,3,2,1,2023-12-01
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0,23,EL PASO,4,02,2,3,2,1,2023-02-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0,23,EL PASO,4,07,2,3,2,1,2023-07-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0,23,EL PASO,4,03,2,3,2,1,2023-03-01
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,2,23,EL PASO,4,11,2,3,2,1,2023-11-01
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0,23,EL PASO,4,10,2,3,2,1,2023-10-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,0,23,EL PASO,4,11,2,3,2,1,2024-11-01
+2019,AUG,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,08,2,2,2,1,2019-08-01
+2020,MAY,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,05,2,2,2,1,2020-05-01
+2021,FEB,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,2,0,48,HOULTON,42,02,2,2,2,1,2021-02-01
+2022,DEC,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,12,2,2,2,1,2022-12-01
+2022,NOV,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,11,2,2,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,10,2,2,2,1,2022-10-01
+2023,APR,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,04,2,2,2,1,2023-04-01
+2023,JUL,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,2,0,48,HOULTON,42,07,2,2,2,1,2023-07-01
+2023,MAR,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,03,2,2,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,3,0,48,HOULTON,42,05,2,2,2,1,2023-05-01
+2023,OCT,U.S. Border Patrol,Northern Border,Land Only,HOULTON SECTOR,Fentanyl,1,0,48,HOULTON,42,10,2,2,2,1,2023-10-01
+2019,FEB,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,02,1,2,3,1,2019-02-01
+2019,JUN,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,06,1,2,2,1,2019-06-01
+2019,MAR,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,4,0,42,BUFFALO,33,03,1,2,3,1,2019-03-01
+2019,OCT,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,2,0,42,BUFFALO,33,10,1,2,2,1,2019-10-01
+2019,SEP,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,55,0,42,BUFFALO,33,09,1,2,3,1,2019-09-01
+2020,APR,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,4,0,42,BUFFALO,33,04,1,2,3,1,2020-04-01
+2020,AUG,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,08,1,2,2,1,2020-08-01
+2020,FEB,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,17,0,42,BUFFALO,33,02,1,2,3,1,2020-02-01
+2020,JUN,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,06,1,2,2,1,2020-06-01
+2020,MAR,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,03,1,2,2,1,2020-03-01
+2020,MAR,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,15,0,42,BUFFALO,33,03,1,2,3,1,2020-03-01
+2020,OCT,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,2,0,42,BUFFALO,33,10,1,2,3,1,2020-10-01
+2021,AUG,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,08,1,2,3,1,2021-08-01
+2021,MAY,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,05,1,2,2,1,2021-05-01
+2022,APR,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,11,2,42,BUFFALO,33,04,1,2,2,1,2022-04-01
+2022,APR,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,8,0,42,BUFFALO,33,04,1,2,3,1,2022-04-01
+2022,FEB,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,02,1,2,3,1,2022-02-01
+2022,MAR,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,37,2,42,BUFFALO,33,03,1,2,3,1,2022-03-01
+2022,NOV,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,2,0,42,BUFFALO,33,11,1,2,3,1,2022-11-01
+2022,OCT,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,2,0,42,BUFFALO,33,10,1,2,2,1,2022-10-01
+2022,OCT,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,6,0,42,BUFFALO,33,10,1,2,3,1,2022-10-01
+2023,OCT,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,10,1,2,2,1,2023-10-01
+2023,SEP,Office of Field Operations,Northern Border,Other,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,09,1,2,3,1,2023-09-01
+2024,DEC,Office of Field Operations,Northern Border,Land Only,BUFFALO FIELD OFFICE,Fentanyl,1,0,42,BUFFALO,33,12,1,2,2,1,2024-12-01
+2019,FEB,U.S. Border Patrol,Northern Border,Land Only,BUFFALO SECTOR,Fentanyl,1,0,49,BUFFALO,33,02,2,2,2,1,2019-02-01
+2020,SEP,U.S. Border Patrol,Northern Border,Land Only,BUFFALO SECTOR,Fentanyl,1,0,49,BUFFALO,33,09,2,2,2,1,2020-09-01
+2023,FEB,U.S. Border Patrol,Northern Border,Land Only,BUFFALO SECTOR,Fentanyl,1,0,49,BUFFALO,33,02,2,2,2,1,2023-02-01
+2023,MAY,U.S. Border Patrol,Northern Border,Land Only,BUFFALO SECTOR,Fentanyl,1,0,49,BUFFALO,33,05,2,2,2,1,2023-05-01
+2024,OCT,U.S. Border Patrol,Northern Border,Land Only,BUFFALO SECTOR,Fentanyl,1,0,49,BUFFALO,33,10,2,2,2,1,2024-10-01
+2019,NOV,U.S. Border Patrol,Coastal/Interior,Other,RAMEY SECTOR,Fentanyl,1,0,50,RAMEY,39,11,2,1,3,1,2019-11-01
+2019,OCT,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,10,2,2,2,1,2019-10-01
+2020,FEB,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,02,2,2,2,1,2020-02-01
+2020,JAN,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,2,0,36,BLAINE,27,01,2,2,2,1,2020-01-01
+2021,FEB,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,13,36,BLAINE,27,02,2,2,2,1,2021-02-01
+2021,JUL,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,07,2,2,2,1,2021-07-01
+2021,MAY,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,05,2,2,2,1,2021-05-01
+2022,APR,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,04,2,2,2,1,2022-04-01
+2022,FEB,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,02,2,2,2,1,2022-02-01
+2023,SEP,U.S. Border Patrol,Northern Border,Land Only,BLAINE SECTOR,Fentanyl,1,0,36,BLAINE,27,09,2,2,2,1,2023-09-01
+2020,AUG,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,0,14,HOUSTON,11,08,1,1,3,1,2020-08-01
+2020,JUN,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,0,14,HOUSTON,11,06,1,1,3,1,2020-06-01
+2021,APR,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,2,0,14,HOUSTON,11,04,1,1,3,1,2021-04-01
+2021,AUG,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,0,14,HOUSTON,11,08,1,1,3,1,2021-08-01
+2021,JAN,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,174,14,HOUSTON,11,01,1,1,3,1,2021-01-01
+2022,JUL,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,1,14,HOUSTON,11,07,1,1,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,5,14,HOUSTON,11,06,1,1,3,1,2022-06-01
+2022,MAR,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,7,0,14,HOUSTON,11,03,1,1,3,1,2022-03-01
+2022,MAY,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,1,14,HOUSTON,11,05,1,1,3,1,2022-05-01
+2022,OCT,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,9,14,HOUSTON,11,10,1,1,3,1,2022-10-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,0,14,HOUSTON,11,06,1,1,3,1,2023-06-01
+2024,OCT,Office of Field Operations,Coastal/Interior,Other,HOUSTON FIELD OFFICE,Fentanyl,1,318,14,HOUSTON,11,10,1,1,3,1,2024-10-01
+2022,APR,Air and Marine Operations,Coastal/Interior,Other,Houston Air And Marine Branch,Fentanyl,1,0,57,HOUSTON,11,04,3,1,3,1,2022-04-01
+2022,AUG,Air and Marine Operations,Coastal/Interior,Other,Houston Air And Marine Branch,Fentanyl,1,0,57,HOUSTON,11,08,3,1,3,1,2022-08-01
+2022,JAN,Air and Marine Operations,Coastal/Interior,Other,Houston Air And Marine Branch,Fentanyl,3,0,57,HOUSTON,11,01,3,1,3,1,2022-01-01
+2023,NOV,Air and Marine Operations,Coastal/Interior,Other,Houston Air And Marine Branch,Fentanyl,1,0,57,HOUSTON,11,11,3,1,3,1,2023-11-01
+2020,JUN,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,22,33,SPOKANE,24,06,2,2,2,1,2020-06-01
+2021,JUN,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,06,2,2,2,1,2021-06-01
+2021,OCT,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,10,2,2,2,1,2021-10-01
+2022,JUN,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,3,33,SPOKANE,24,06,2,2,2,1,2022-06-01
+2023,FEB,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,02,2,2,2,1,2023-02-01
+2023,JUN,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,06,2,2,2,1,2023-06-01
+2023,MAR,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,2,0,33,SPOKANE,24,03,2,2,2,1,2023-03-01
+2023,OCT,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,10,2,2,2,1,2023-10-01
+2024,DEC,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,12,2,2,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Northern Border,Land Only,SPOKANE SECTOR,Fentanyl,1,0,33,SPOKANE,24,01,2,2,2,1,2024-01-01
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,04,2,3,2,1,2021-04-01
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,05,2,3,2,1,2021-05-01
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,09,2,3,2,1,2021-09-01
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0,26,BIG BEND,20,08,2,3,2,1,2022-08-01
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,12,2,3,2,1,2022-12-01
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,03,2,3,2,1,2022-03-01
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,11,2,3,2,1,2022-11-01
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0,26,BIG BEND,20,10,2,3,2,1,2022-10-01
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,31,26,BIG BEND,20,04,2,3,2,1,2023-04-01
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,3,0,26,BIG BEND,20,08,2,3,2,1,2023-08-01
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,12,2,3,2,1,2023-12-01
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,2,26,BIG BEND,20,02,2,3,2,1,2023-02-01
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,9,26,BIG BEND,20,07,2,3,2,1,2023-07-01
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,06,2,3,2,1,2023-06-01
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,03,2,3,2,1,2023-03-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,05,2,3,2,1,2023-05-01
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0,26,BIG BEND,20,11,2,3,2,1,2023-11-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,09,2,3,2,1,2023-09-01
+2024,DEC,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,4,5,26,BIG BEND,20,12,2,3,2,1,2024-12-01
+2024,JAN,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,4,10,26,BIG BEND,20,01,2,3,2,1,2024-01-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2,26,BIG BEND,20,11,2,3,2,1,2024-11-01
+2024,OCT,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0,26,BIG BEND,20,10,2,3,2,1,2024-10-01
+2021,AUG,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,08,1,2,2,1,2021-08-01
+2021,JAN,Office of Field Operations,Northern Border,Other,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,01,1,2,3,1,2021-01-01
+2022,APR,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,04,1,2,2,1,2022-04-01
+2022,DEC,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,12,1,2,2,1,2022-12-01
+2022,FEB,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,02,1,2,2,1,2022-02-01
+2022,NOV,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,11,1,2,2,1,2022-11-01
+2022,OCT,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,10,1,2,2,1,2022-10-01
+2023,APR,Office of Field Operations,Northern Border,Other,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,04,1,2,3,1,2023-04-01
+2023,JAN,Office of Field Operations,Northern Border,Land Only,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,01,1,2,2,1,2023-01-01
+2023,MAY,Office of Field Operations,Northern Border,Other,BOSTON FIELD OFFICE,Fentanyl,1,0,58,BOSTON,41,05,1,2,3,1,2023-05-01
+2021,DEC,U.S. Border Patrol,Northern Border,Land Only,HAVRE SECTOR,Fentanyl,1,0,56,HAVRE,43,12,2,2,2,1,2021-12-01
+2022,AUG,U.S. Border Patrol,Northern Border,Land Only,HAVRE SECTOR,Fentanyl,2,0,56,HAVRE,43,08,2,2,2,1,2022-08-01
+2022,OCT,U.S. Border Patrol,Northern Border,Land Only,HAVRE SECTOR,Fentanyl,1,0,56,HAVRE,43,10,2,2,2,1,2022-10-01
+2022,SEP,U.S. Border Patrol,Northern Border,Land Only,HAVRE SECTOR,Fentanyl,1,0,56,HAVRE,43,09,2,2,2,1,2022-09-01
+2023,JAN,U.S. Border Patrol,Northern Border,Land Only,HAVRE SECTOR,Fentanyl,1,0,56,HAVRE,43,01,2,2,2,1,2023-01-01
+2022,APR,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,1,1,34,ATLANTA,25,04,1,1,3,1,2022-04-01
+2022,AUG,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,2,1,34,ATLANTA,25,08,1,1,3,1,2022-08-01
+2022,DEC,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,3,4,34,ATLANTA,25,12,1,1,3,1,2022-12-01
+2022,FEB,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,2,0,34,ATLANTA,25,02,1,1,3,1,2022-02-01
+2022,JUL,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,1,0,34,ATLANTA,25,07,1,1,3,1,2022-07-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,1,0,34,ATLANTA,25,06,1,1,3,1,2022-06-01
+2022,MAY,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,2,0,34,ATLANTA,25,05,1,1,3,1,2022-05-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,1,0,34,ATLANTA,25,04,1,1,3,1,2023-04-01
+2023,NOV,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,2,9,34,ATLANTA,25,11,1,1,3,1,2023-11-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,ATLANTA FIELD OFFICE,Fentanyl,2,3,34,ATLANTA,25,01,1,1,3,1,2024-01-01
+2022,FEB,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,1,0,35,TAMPA,26,02,1,1,3,1,2022-02-01
+2023,APR,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,1,12,35,TAMPA,26,04,1,1,3,1,2023-04-01
+2023,JUN,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,2,3,35,TAMPA,26,06,1,1,3,1,2023-06-01
+2023,MAR,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,1,0,35,TAMPA,26,03,1,1,3,1,2023-03-01
+2023,OCT,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,1,0,35,TAMPA,26,10,1,1,3,1,2023-10-01
+2024,JAN,Office of Field Operations,Coastal/Interior,Other,TAMPA FIELD OFFICE,Fentanyl,2,0,35,TAMPA,26,01,1,1,3,1,2024-01-01
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0,41,DEL RIO,30,02,2,3,2,1,2022-02-01
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0,41,DEL RIO,30,05,2,3,2,1,2023-05-01
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,5,41,DEL RIO,30,10,2,3,2,1,2023-10-01
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0,41,DEL RIO,30,09,2,3,2,1,2023-09-01
+2024,JAN,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0,41,DEL RIO,30,01,2,3,2,1,2024-01-01
+2024,NOV,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0,41,DEL RIO,30,11,2,3,2,1,2024-11-01
+2022,JUN,Office of Field Operations,Coastal/Interior,Other,PRECLEARANCE FIELD OFFICE,Fentanyl,1,0,52,PRECLEARANCE,40,06,1,1,3,1,2022-06-01
+2023,JAN,U.S. Border Patrol,Northern Border,Land Only,SWANTON SECTOR,Fentanyl,1,0,55,SWANTON,36,01,2,2,2,1,2023-01-01
+2024,JAN,U.S. Border Patrol,Northern Border,Land Only,SWANTON SECTOR,Fentanyl,2,0,55,SWANTON,36,01,2,2,2,1,2024-01-01
+2019,APR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,1,15,GREAT LAKES,12,04,3,2,1,1,2019-04-01
+2019,APR,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,04,3,2,3,1,2019-04-01
+2019,AUG,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,08,3,2,1,1,2019-08-01
+2019,AUG,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,25,15,GREAT LAKES,12,08,3,2,3,1,2019-08-01
+2019,DEC,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,12,3,2,1,1,2019-12-01
+2019,FEB,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,0,15,GREAT LAKES,12,02,3,2,1,1,2019-02-01
+2019,JAN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,0,15,GREAT LAKES,12,01,3,2,1,1,2019-01-01
+2019,JUL,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,0,15,GREAT LAKES,12,07,3,2,1,1,2019-07-01
+2019,JUN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,0,15,GREAT LAKES,12,06,3,2,1,1,2019-06-01
+2019,MAR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,03,3,2,1,1,2019-03-01
+2019,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,11,3,2,1,1,2019-11-01
+2019,OCT,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,6,13,15,GREAT LAKES,12,10,3,2,1,1,2019-10-01
+2020,AUG,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,08,3,2,1,1,2020-08-01
+2020,AUG,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,3,22,15,GREAT LAKES,12,08,3,2,3,1,2020-08-01
+2020,JUN,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,28,15,GREAT LAKES,12,06,3,2,3,1,2020-06-01
+2020,MAR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,03,3,2,1,1,2020-03-01
+2020,MAY,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,05,3,2,1,1,2020-05-01
+2020,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,5,2,15,GREAT LAKES,12,11,3,2,1,1,2020-11-01
+2020,OCT,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,4,91,15,GREAT LAKES,12,10,3,2,1,1,2020-10-01
+2020,SEP,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,6,15,GREAT LAKES,12,09,3,2,1,1,2020-09-01
+2020,SEP,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,6,12,15,GREAT LAKES,12,09,3,2,3,1,2020-09-01
+2021,APR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,2,15,GREAT LAKES,12,04,3,2,1,1,2021-04-01
+2021,AUG,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,08,3,2,1,1,2021-08-01
+2021,DEC,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,1,15,GREAT LAKES,12,12,3,2,3,1,2021-12-01
+2021,FEB,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,02,3,2,1,1,2021-02-01
+2021,FEB,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,02,3,2,3,1,2021-02-01
+2021,JAN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,01,3,2,1,1,2021-01-01
+2021,JUL,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,4,15,GREAT LAKES,12,07,3,2,1,1,2021-07-01
+2021,JUL,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,4,4,15,GREAT LAKES,12,07,3,2,3,1,2021-07-01
+2021,MAR,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,11,98,15,GREAT LAKES,12,03,3,2,3,1,2021-03-01
+2021,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,4,13,15,GREAT LAKES,12,11,3,2,1,1,2021-11-01
+2021,SEP,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,2,15,GREAT LAKES,12,09,3,2,1,1,2021-09-01
+2021,SEP,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,4,15,GREAT LAKES,12,09,3,2,3,1,2021-09-01
+2022,APR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,5,15,GREAT LAKES,12,04,3,2,1,1,2022-04-01
+2022,APR,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,2,15,GREAT LAKES,12,04,3,2,3,1,2022-04-01
+2022,AUG,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,4,15,GREAT LAKES,12,08,3,2,3,1,2022-08-01
+2022,JAN,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,4,14,15,GREAT LAKES,12,01,3,2,3,1,2022-01-01
+2022,JUN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,06,3,2,1,1,2022-06-01
+2022,MAR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,0,15,GREAT LAKES,12,03,3,2,1,1,2022-03-01
+2022,MAR,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,9,15,GREAT LAKES,12,03,3,2,3,1,2022-03-01
+2022,MAY,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,05,3,2,1,1,2022-05-01
+2022,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,11,3,2,1,1,2022-11-01
+2022,OCT,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,10,3,2,1,1,2022-10-01
+2022,SEP,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,09,3,2,1,1,2022-09-01
+2022,SEP,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,9,15,GREAT LAKES,12,09,3,2,3,1,2022-09-01
+2023,APR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,3,6,15,GREAT LAKES,12,04,3,2,1,1,2023-04-01
+2023,APR,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,3,2,15,GREAT LAKES,12,04,3,2,3,1,2023-04-01
+2023,AUG,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,2,15,GREAT LAKES,12,08,3,2,1,1,2023-08-01
+2023,AUG,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,11,2,15,GREAT LAKES,12,08,3,2,3,1,2023-08-01
+2023,DEC,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,12,3,2,1,1,2023-12-01
+2023,FEB,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,2,15,GREAT LAKES,12,02,3,2,1,1,2023-02-01
+2023,JAN,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,12,15,GREAT LAKES,12,01,3,2,3,1,2023-01-01
+2023,JUL,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,1,15,GREAT LAKES,12,07,3,2,1,1,2023-07-01
+2023,JUL,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,2,15,GREAT LAKES,12,07,3,2,3,1,2023-07-01
+2023,JUN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,4,15,GREAT LAKES,12,06,3,2,1,1,2023-06-01
+2023,JUN,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,10,3,15,GREAT LAKES,12,06,3,2,3,1,2023-06-01
+2023,MAR,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,5,3,15,GREAT LAKES,12,03,3,2,1,1,2023-03-01
+2023,MAY,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,1,15,GREAT LAKES,12,05,3,2,1,1,2023-05-01
+2023,MAY,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,2,29,15,GREAT LAKES,12,05,3,2,3,1,2023-05-01
+2023,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,11,3,2,1,1,2023-11-01
+2023,OCT,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,10,3,2,1,1,2023-10-01
+2023,SEP,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,0,15,GREAT LAKES,12,09,3,2,1,1,2023-09-01
+2023,SEP,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,09,3,2,3,1,2023-09-01
+2024,JAN,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,1,15,GREAT LAKES,12,01,3,2,1,1,2024-01-01
+2024,NOV,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,11,3,2,1,1,2024-11-01
+2024,NOV,Air and Marine Operations,Northern Border,Other,Great Lakes Air And Marine Branch,Fentanyl,1,0,15,GREAT LAKES,12,11,3,2,3,1,2024-11-01
+2024,OCT,Air and Marine Operations,Northern Border,Land,Great Lakes Air And Marine Branch,Fentanyl,2,2,15,GREAT LAKES,12,10,3,2,1,1,2024-10-01
+2019,AUG,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,08,3,2,1,1,2019-08-01
+2019,DEC,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,12,3,2,1,1,2019-12-01
+2020,APR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,6,5,BELLINGHAM,3,04,3,2,1,1,2020-04-01
+2020,AUG,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,9,5,BELLINGHAM,3,08,3,2,1,1,2020-08-01
+2020,FEB,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,02,3,2,1,1,2020-02-01
+2020,JAN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,01,3,2,1,1,2020-01-01
+2020,JUL,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,6,5,BELLINGHAM,3,07,3,2,1,1,2020-07-01
+2020,JUN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,0,5,BELLINGHAM,3,06,3,2,1,1,2020-06-01
+2020,MAY,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,05,3,2,1,1,2020-05-01
+2020,SEP,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,09,3,2,1,1,2020-09-01
+2021,APR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,04,3,2,1,1,2021-04-01
+2021,AUG,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,3,0,5,BELLINGHAM,3,08,3,2,1,1,2021-08-01
+2021,DEC,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,12,3,2,1,1,2021-12-01
+2021,FEB,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,1,5,BELLINGHAM,3,02,3,2,1,1,2021-02-01
+2021,JAN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,0,5,BELLINGHAM,3,01,3,2,1,1,2021-01-01
+2021,JUL,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,0,5,BELLINGHAM,3,07,3,2,1,1,2021-07-01
+2021,JUN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,3,0,5,BELLINGHAM,3,06,3,2,1,1,2021-06-01
+2021,MAR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,3,90,5,BELLINGHAM,3,03,3,2,1,1,2021-03-01
+2021,MAY,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,5,1,5,BELLINGHAM,3,05,3,2,1,1,2021-05-01
+2021,OCT,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,3,4,5,BELLINGHAM,3,10,3,2,1,1,2021-10-01
+2021,SEP,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,6,8,5,BELLINGHAM,3,09,3,2,1,1,2021-09-01
+2022,APR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,29,5,BELLINGHAM,3,04,3,2,1,1,2022-04-01
+2022,AUG,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,6,9,5,BELLINGHAM,3,08,3,2,1,1,2022-08-01
+2022,DEC,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,0,5,BELLINGHAM,3,12,3,2,1,1,2022-12-01
+2022,FEB,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,15,34,5,BELLINGHAM,3,02,3,2,1,1,2022-02-01
+2022,JAN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,2,5,BELLINGHAM,3,01,3,2,1,1,2022-01-01
+2022,JUL,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,107,82,5,BELLINGHAM,3,07,3,2,1,1,2022-07-01
+2022,JUN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,4,3,5,BELLINGHAM,3,06,3,2,1,1,2022-06-01
+2022,MAR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,11,84,5,BELLINGHAM,3,03,3,2,1,1,2022-03-01
+2022,NOV,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,7,11,5,BELLINGHAM,3,11,3,2,1,1,2022-11-01
+2022,OCT,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,6,5,BELLINGHAM,3,10,3,2,1,1,2022-10-01
+2022,SEP,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,9,18,5,BELLINGHAM,3,09,3,2,1,1,2022-09-01
+2023,APR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,7,66,5,BELLINGHAM,3,04,3,2,1,1,2023-04-01
+2023,AUG,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,4,7,5,BELLINGHAM,3,08,3,2,1,1,2023-08-01
+2023,FEB,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,0,5,BELLINGHAM,3,02,3,2,1,1,2023-02-01
+2023,JAN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,6,1,5,BELLINGHAM,3,01,3,2,1,1,2023-01-01
+2023,JUL,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,6,25,5,BELLINGHAM,3,07,3,2,1,1,2023-07-01
+2023,JUN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,13,104,5,BELLINGHAM,3,06,3,2,1,1,2023-06-01
+2023,MAR,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,10,50,5,BELLINGHAM,3,03,3,2,1,1,2023-03-01
+2023,MAY,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,0,5,BELLINGHAM,3,05,3,2,1,1,2023-05-01
+2023,NOV,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,1,5,BELLINGHAM,3,11,3,2,1,1,2023-11-01
+2023,OCT,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,12,6,5,BELLINGHAM,3,10,3,2,1,1,2023-10-01
+2023,SEP,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,6,5,BELLINGHAM,3,09,3,2,1,1,2023-09-01
+2024,DEC,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,11,5,BELLINGHAM,3,12,3,2,1,1,2024-12-01
+2024,JAN,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,518,5,BELLINGHAM,3,01,3,2,1,1,2024-01-01
+2024,NOV,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,1,533,5,BELLINGHAM,3,11,3,2,1,1,2024-11-01
+2024,OCT,Air and Marine Operations,Northern Border,Land,Bellingham Air Branch,Fentanyl,2,4,5,BELLINGHAM,3,10,3,2,1,1,2024-10-01
+2019,DEC,Air and Marine Operations,Southwest Border,Land,Mc Allen Air And Marine Branch,Fentanyl,1,2,46,MC ALLEN,35,12,3,3,1,1,2019-12-01
+2019,FEB,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,1,17,18,ALBUQUERQUE,15,02,3,1,3,1,2019-02-01
+2019,MAR,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,1,19,18,ALBUQUERQUE,15,03,3,1,3,1,2019-03-01
+2019,NOV,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,1,0,18,ALBUQUERQUE,15,11,3,1,3,1,2019-11-01
+2019,OCT,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,2,224,18,ALBUQUERQUE,15,10,3,1,3,1,2019-10-01
+2020,JUN,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,5,8,18,ALBUQUERQUE,15,06,3,1,3,1,2020-06-01
+2021,APR,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,2,0,18,ALBUQUERQUE,15,04,3,1,3,1,2021-04-01
+2021,MAY,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,4,0,18,ALBUQUERQUE,15,05,3,1,3,1,2021-05-01
+2022,APR,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,1,0,18,ALBUQUERQUE,15,04,3,1,3,1,2022-04-01
+2022,FEB,Air and Marine Operations,Coastal/Interior,Other,NASOC - Albuquerque,Fentanyl,1,0,18,ALBUQUERQUE,15,02,3,1,3,1,2022-02-01
+2019,JUN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,06,3,1,3,1,2019-06-01
+2019,MAR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,03,3,1,3,1,2019-03-01
+2019,MAY,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,15,31,JACKSONVILLE,22,05,3,1,3,1,2019-05-01
+2019,NOV,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,4,31,JACKSONVILLE,22,11,3,1,3,1,2019-11-01
+2020,APR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,04,3,1,3,1,2020-04-01
+2020,AUG,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,08,3,1,3,1,2020-08-01
+2020,OCT,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,10,3,1,3,1,2020-10-01
+2020,SEP,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,09,3,1,3,1,2020-09-01
+2021,APR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,04,3,1,3,1,2021-04-01
+2021,JUN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,1,31,JACKSONVILLE,22,06,3,1,3,1,2021-06-01
+2021,MAR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,03,3,1,3,1,2021-03-01
+2022,AUG,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,08,3,1,3,1,2022-08-01
+2022,DEC,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,3,0,31,JACKSONVILLE,22,12,3,1,3,1,2022-12-01
+2022,FEB,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,3,0,31,JACKSONVILLE,22,02,3,1,3,1,2022-02-01
+2022,JAN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,01,3,1,3,1,2022-01-01
+2022,JUL,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,2,31,JACKSONVILLE,22,07,3,1,3,1,2022-07-01
+2022,JUN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,06,3,1,3,1,2022-06-01
+2022,MAR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,4,1,31,JACKSONVILLE,22,03,3,1,3,1,2022-03-01
+2022,MAY,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,4,31,JACKSONVILLE,22,05,3,1,3,1,2022-05-01
+2022,NOV,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,11,3,1,3,1,2022-11-01
+2022,OCT,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,10,3,1,3,1,2022-10-01
+2023,APR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,04,3,1,3,1,2023-04-01
+2023,AUG,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,08,3,1,3,1,2023-08-01
+2023,DEC,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,3,0,31,JACKSONVILLE,22,12,3,1,3,1,2023-12-01
+2023,JAN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,3,1,31,JACKSONVILLE,22,01,3,1,3,1,2023-01-01
+2023,JUL,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,10,3,31,JACKSONVILLE,22,07,3,1,3,1,2023-07-01
+2023,MAR,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,03,3,1,3,1,2023-03-01
+2023,NOV,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,11,3,1,3,1,2023-11-01
+2023,OCT,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,3,0,31,JACKSONVILLE,22,10,3,1,3,1,2023-10-01
+2023,SEP,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,2,0,31,JACKSONVILLE,22,09,3,1,3,1,2023-09-01
+2024,JAN,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,01,3,1,3,1,2024-01-01
+2024,NOV,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,11,3,1,3,1,2024-11-01
+2024,OCT,Air and Marine Operations,Coastal/Interior,Other,Jacksonville Air And Marine Branch,Fentanyl,1,0,31,JACKSONVILLE,22,10,3,1,3,1,2024-10-01
+2019,NOV,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,11,11,MANASSAS,8,11,3,2,3,1,2019-11-01
+2019,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,2,3,11,MANASSAS,8,10,3,2,3,1,2019-10-01
+2020,FEB,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,02,3,2,3,1,2020-02-01
+2020,MAY,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,4,2,11,MANASSAS,8,05,3,2,1,1,2020-05-01
+2020,NOV,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,2,31,11,MANASSAS,8,11,3,2,3,1,2020-11-01
+2020,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,2,37,11,MANASSAS,8,10,3,2,3,1,2020-10-01
+2021,AUG,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,3,19,11,MANASSAS,8,08,3,2,3,1,2021-08-01
+2021,DEC,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,3,17,11,MANASSAS,8,12,3,2,3,1,2021-12-01
+2021,FEB,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,02,3,2,3,1,2021-02-01
+2021,JUL,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,7,31,11,MANASSAS,8,07,3,2,3,1,2021-07-01
+2021,MAY,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,2,11,MANASSAS,8,05,3,2,3,1,2021-05-01
+2021,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,17,11,MANASSAS,8,10,3,2,3,1,2021-10-01
+2021,SEP,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,5,11,MANASSAS,8,09,3,2,3,1,2021-09-01
+2022,DEC,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,6,0,11,MANASSAS,8,12,3,2,3,1,2022-12-01
+2022,FEB,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,3,0,11,MANASSAS,8,02,3,2,1,1,2022-02-01
+2022,JAN,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,2,0,11,MANASSAS,8,01,3,2,1,1,2022-01-01
+2022,JAN,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,6,167,11,MANASSAS,8,01,3,2,3,1,2022-01-01
+2022,JUL,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,3,0,11,MANASSAS,8,07,3,2,1,1,2022-07-01
+2022,MAR,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,3,0,11,MANASSAS,8,03,3,2,1,1,2022-03-01
+2022,MAR,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,2,8,11,MANASSAS,8,03,3,2,3,1,2022-03-01
+2022,NOV,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,5,11,MANASSAS,8,11,3,2,3,1,2022-11-01
+2022,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,3,30,11,MANASSAS,8,10,3,2,3,1,2022-10-01
+2023,APR,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,3,32,11,MANASSAS,8,04,3,2,3,1,2023-04-01
+2023,DEC,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,12,3,2,3,1,2023-12-01
+2023,FEB,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,02,3,2,3,1,2023-02-01
+2023,JAN,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,12,9,11,MANASSAS,8,01,3,2,3,1,2023-01-01
+2023,JUL,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,4,44,11,MANASSAS,8,07,3,2,3,1,2023-07-01
+2023,JUN,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,06,3,2,1,1,2023-06-01
+2023,JUN,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,5,4,11,MANASSAS,8,06,3,2,3,1,2023-06-01
+2023,MAR,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,2,0,11,MANASSAS,8,03,3,2,3,1,2023-03-01
+2023,MAY,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,13,19,11,MANASSAS,8,05,3,2,3,1,2023-05-01
+2023,NOV,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,11,3,2,1,1,2023-11-01
+2023,NOV,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,8,19,11,MANASSAS,8,11,3,2,3,1,2023-11-01
+2023,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,3,105,11,MANASSAS,8,10,3,2,3,1,2023-10-01
+2024,JAN,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,01,3,2,3,1,2024-01-01
+2024,NOV,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,11,3,2,3,1,2024-11-01
+2024,OCT,Air and Marine Operations,Northern Border,Land,Manassas Air Branch,Fentanyl,1,0,11,MANASSAS,8,10,3,2,1,1,2024-10-01
+2024,OCT,Air and Marine Operations,Northern Border,Other,Manassas Air Branch,Fentanyl,6,115,11,MANASSAS,8,10,3,2,3,1,2024-10-01
+2020,APR,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,2,29,17,MEXICO CITY,14,04,3,1,3,1,2020-04-01
+2020,MAR,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,2,13,17,MEXICO CITY,14,03,3,1,3,1,2020-03-01
+2020,MAY,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,2,44,17,MEXICO CITY,14,05,3,1,3,1,2020-05-01
+2021,FEB,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,1,14,17,MEXICO CITY,14,02,3,1,3,1,2021-02-01
+2021,MAY,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,1,130,17,MEXICO CITY,14,05,3,1,3,1,2021-05-01
+2022,APR,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,1,109,17,MEXICO CITY,14,04,3,1,3,1,2022-04-01
+2022,NOV,Air and Marine Operations,Coastal/Interior,Other,Mexico City IAC,Fentanyl,1,89,17,MEXICO CITY,14,11,3,1,3,1,2022-11-01
+2020,FEB,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,02,3,3,1,1,2020-02-01
+2020,JUL,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,07,3,3,1,1,2020-07-01
+2020,MAY,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,05,3,3,1,1,2020-05-01
+2021,JAN,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,01,3,3,1,1,2021-01-01
+2021,MAY,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,05,3,3,1,1,2021-05-01
+2021,NOV,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,2,9,20,GROUND TACTICAL AIR CONTROLLER,16,11,3,3,1,1,2021-11-01
+2022,APR,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,2,0,20,GROUND TACTICAL AIR CONTROLLER,16,04,3,3,1,1,2022-04-01
+2022,NOV,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,5,29,20,GROUND TACTICAL AIR CONTROLLER,16,11,3,3,1,1,2022-11-01
+2022,SEP,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,1,0,20,GROUND TACTICAL AIR CONTROLLER,16,09,3,3,1,1,2022-09-01
+2023,DEC,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,6,0,20,GROUND TACTICAL AIR CONTROLLER,16,12,3,3,1,1,2023-12-01
+2023,FEB,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,2,7,20,GROUND TACTICAL AIR CONTROLLER,16,02,3,3,1,1,2023-02-01
+2023,JAN,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,12,139,20,GROUND TACTICAL AIR CONTROLLER,16,01,3,3,1,1,2023-01-01
+2023,JUN,Air and Marine Operations,Southwest Border,Land,Ground Tactical Air Controller,Fentanyl,3,24,20,GROUND TACTICAL AIR CONTROLLER,16,06,3,3,1,1,2023-06-01
+2020,JUL,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,1,0,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,07,3,1,3,1,2020-07-01
+2021,JUN,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,1,0,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,06,3,1,3,1,2021-06-01
+2021,OCT,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,1,9,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,10,3,1,3,1,2021-10-01
+2022,JAN,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,1,63,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,01,3,1,3,1,2022-01-01
+2022,MAR,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,1,125,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,03,3,1,3,1,2022-03-01
+2023,NOV,Air and Marine Operations,Coastal/Interior,Other,AMOC Air And Marine Operations Center,Fentanyl,2,238,16,AMOC AIR AND MARINE OPERATIONS CENTER,13,11,3,1,3,1,2023-11-01
+2020,SEP,Air and Marine Operations,Coastal/Interior,Other,National Air Training Center Oklahoma City,Fentanyl,1,0,53,OKLAHOMA CITY,44,09,3,1,3,1,2020-09-01
+2021,AUG,Air and Marine Operations,Southwest Border,Land,NASOC - San Angelo,Fentanyl,1,0,38,SAN ANGELO,28,08,3,3,1,1,2021-08-01
+2022,DEC,Air and Marine Operations,Southwest Border,Land,NASOC - San Angelo,Fentanyl,1,12,38,SAN ANGELO,28,12,3,3,1,1,2022-12-01
+2022,SEP,Air and Marine Operations,Southwest Border,Land,NASOC - San Angelo,Fentanyl,1,0,38,SAN ANGELO,28,09,3,3,1,1,2022-09-01
+2023,AUG,Air and Marine Operations,Southwest Border,Land,NASOC - San Angelo,Fentanyl,1,0,38,SAN ANGELO,28,08,3,3,1,1,2023-08-01
+2023,NOV,Air and Marine Operations,Southwest Border,Land,NASOC - San Angelo,Fentanyl,1,0,38,SAN ANGELO,28,11,3,3,1,1,2023-11-01
+2021,JUN,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,1,0,54,GRAND FORKS,37,06,3,2,1,1,2021-06-01
+2021,MAY,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,1,0,54,GRAND FORKS,37,05,3,2,1,1,2021-05-01
+2022,SEP,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,4,0,54,GRAND FORKS,37,09,3,2,1,1,2022-09-01
+2023,AUG,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,3,0,54,GRAND FORKS,37,08,3,2,1,1,2023-08-01
+2023,FEB,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,1,0,54,GRAND FORKS,37,02,3,2,1,1,2023-02-01
+2023,MAR,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,1,0,54,GRAND FORKS,37,03,3,2,1,1,2023-03-01
+2023,MAY,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,4,0,54,GRAND FORKS,37,05,3,2,1,1,2023-05-01
+2023,OCT,Air and Marine Operations,Northern Border,Land,NASOC - Grand Forks,Fentanyl,3,0,54,GRAND FORKS,37,10,3,2,1,1,2023-10-01
+2023,MAY,Air and Marine Operations,Southwest Border,Land,NASOC - Sierra Vista,Fentanyl,2,4,45,SIERRA VISTA,31,05,3,3,1,1,2023-05-01
